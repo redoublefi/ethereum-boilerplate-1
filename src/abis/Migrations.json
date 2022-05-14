@@ -78,24 +78,14 @@
   "ast": {
     "absolutePath": "/C/Users/Justin Acevero/DAPP Projects/Masterclass Projects/Yield Aggregator/yield-aggregator/src/contracts/Migrations.sol",
     "exportedSymbols": {
-      "Migrations": [
-        647
-      ]
+      "Migrations": [647]
     },
     "id": 648,
     "nodeType": "SourceUnit",
     "nodes": [
       {
         "id": 592,
-        "literals": [
-          "solidity",
-          ">=",
-          "0.4",
-          ".21",
-          "<",
-          "0.6",
-          ".0"
-        ],
+        "literals": ["solidity", ">=", "0.4", ".21", "<", "0.6", ".0"],
         "nodeType": "PragmaDirective",
         "src": "0:32:1"
       },
@@ -106,9 +96,7 @@
         "documentation": null,
         "fullyImplemented": true,
         "id": 647,
-        "linearizedBaseContracts": [
-          647
-        ],
+        "linearizedBaseContracts": [647],
         "name": "Migrations",
         "nodeType": "ContractDefinition",
         "nodes": [
@@ -486,9 +474,7 @@
               "src": "421:112:1",
               "statements": [
                 {
-                  "assignments": [
-                    634
-                  ],
+                  "assignments": [634],
                   "declarations": [
                     {
                       "constant": false,
@@ -727,24 +713,14 @@
   "legacyAST": {
     "absolutePath": "/C/Users/Justin Acevero/DAPP Projects/Masterclass Projects/Yield Aggregator/yield-aggregator/src/contracts/Migrations.sol",
     "exportedSymbols": {
-      "Migrations": [
-        647
-      ]
+      "Migrations": [647]
     },
     "id": 648,
     "nodeType": "SourceUnit",
     "nodes": [
       {
         "id": 592,
-        "literals": [
-          "solidity",
-          ">=",
-          "0.4",
-          ".21",
-          "<",
-          "0.6",
-          ".0"
-        ],
+        "literals": ["solidity", ">=", "0.4", ".21", "<", "0.6", ".0"],
         "nodeType": "PragmaDirective",
         "src": "0:32:1"
       },
@@ -755,9 +731,7 @@
         "documentation": null,
         "fullyImplemented": true,
         "id": 647,
-        "linearizedBaseContracts": [
-          647
-        ],
+        "linearizedBaseContracts": [647],
         "name": "Migrations",
         "nodeType": "ContractDefinition",
         "nodes": [
@@ -1135,9 +1109,7 @@
               "src": "421:112:1",
               "statements": [
                 {
-                  "assignments": [
-                    634
-                  ],
+                  "assignments": [634],
                   "declarations": [
                     {
                       "constant": false,

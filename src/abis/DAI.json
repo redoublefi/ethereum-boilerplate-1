@@ -116,33 +116,18 @@
   "ast": {
     "absolutePath": "/C/Users/Justin Acevero/DAPP Projects/Masterclass Projects/Yield Aggregator/yield-aggregator/src/contracts/Aggregator.sol",
     "exportedSymbols": {
-      "AaveLendingPool": [
-        124
-      ],
-      "Aggregator": [
-        588
-      ],
-      "DAI": [
-        39
-      ],
-      "aDAI": [
-        74
-      ],
-      "cDAI": [
-        66
-      ]
+      "AaveLendingPool": [124],
+      "Aggregator": [588],
+      "DAI": [39],
+      "aDAI": [74],
+      "cDAI": [66]
     },
     "id": 589,
     "nodeType": "SourceUnit",
     "nodes": [
       {
         "id": 1,
-        "literals": [
-          "solidity",
-          "^",
-          "0.5",
-          ".16"
-        ],
+        "literals": ["solidity", "^", "0.5", ".16"],
         "nodeType": "PragmaDirective",
         "src": "0:24:0"
       },
@@ -164,9 +149,7 @@
         "documentation": null,
         "fullyImplemented": false,
         "id": 39,
-        "linearizedBaseContracts": [
-          39
-        ],
+        "linearizedBaseContracts": [39],
         "name": "DAI",
         "nodeType": "ContractDefinition",
         "nodes": [
@@ -614,9 +597,7 @@
         "documentation": null,
         "fullyImplemented": false,
         "id": 66,
-        "linearizedBaseContracts": [
-          66
-        ],
+        "linearizedBaseContracts": [66],
         "name": "cDAI",
         "nodeType": "ContractDefinition",
         "nodes": [
@@ -929,9 +910,7 @@
         "documentation": null,
         "fullyImplemented": false,
         "id": 74,
-        "linearizedBaseContracts": [
-          74
-        ],
+        "linearizedBaseContracts": [74],
         "name": "aDAI",
         "nodeType": "ContractDefinition",
         "nodes": [
@@ -1028,9 +1007,7 @@
         "documentation": null,
         "fullyImplemented": false,
         "id": 124,
-        "linearizedBaseContracts": [
-          124
-        ],
+        "linearizedBaseContracts": [124],
         "name": "AaveLendingPool",
         "nodeType": "ContractDefinition",
         "nodes": [
@@ -1659,9 +1636,7 @@
         "documentation": null,
         "fullyImplemented": true,
         "id": 588,
-        "linearizedBaseContracts": [
-          588
-        ],
+        "linearizedBaseContracts": [588],
         "name": "Aggregator",
         "nodeType": "ContractDefinition",
         "nodes": [
@@ -2515,10 +2490,7 @@
                       "id": 182,
                       "name": "require",
                       "nodeType": "Identifier",
-                      "overloadedDeclarations": [
-                        791,
-                        792
-                      ],
+                      "overloadedDeclarations": [791, 792],
                       "referencedDeclaration": 791,
                       "src": "2651:7:0",
                       "typeDescriptions": {
@@ -2730,10 +2702,7 @@
                       "id": 211,
                       "name": "require",
                       "nodeType": "Identifier",
-                      "overloadedDeclarations": [
-                        791,
-                        792
-                      ],
+                      "overloadedDeclarations": [791, 792],
                       "referencedDeclaration": 791,
                       "src": "2945:7:0",
                       "typeDescriptions": {
@@ -3449,10 +3418,7 @@
                             "id": 248,
                             "name": "require",
                             "nodeType": "Identifier",
-                            "overloadedDeclarations": [
-                              791,
-                              792
-                            ],
+                            "overloadedDeclarations": [791, 792],
                             "referencedDeclaration": 791,
                             "src": "3477:7:0",
                             "typeDescriptions": {
@@ -3866,10 +3832,7 @@
                       "id": 288,
                       "name": "require",
                       "nodeType": "Identifier",
-                      "overloadedDeclarations": [
-                        791,
-                        792
-                      ],
+                      "overloadedDeclarations": [791, 792],
                       "referencedDeclaration": 791,
                       "src": "3948:7:0",
                       "typeDescriptions": {
@@ -4111,10 +4074,7 @@
                             "id": 299,
                             "name": "require",
                             "nodeType": "Identifier",
-                            "overloadedDeclarations": [
-                              791,
-                              792
-                            ],
+                            "overloadedDeclarations": [791, 792],
                             "referencedDeclaration": 791,
                             "src": "4096:7:0",
                             "typeDescriptions": {
@@ -4144,9 +4104,7 @@
                   }
                 },
                 {
-                  "assignments": [
-                    313
-                  ],
+                  "assignments": [313],
                   "declarations": [
                     {
                       "constant": false,
@@ -4658,10 +4616,7 @@
                       "id": 350,
                       "name": "require",
                       "nodeType": "Identifier",
-                      "overloadedDeclarations": [
-                        791,
-                        792
-                      ],
+                      "overloadedDeclarations": [791, 792],
                       "referencedDeclaration": 791,
                       "src": "4680:7:0",
                       "typeDescriptions": {
@@ -4688,9 +4643,7 @@
                   "src": "4680:28:0"
                 },
                 {
-                  "assignments": [
-                    357
-                  ],
+                  "assignments": [357],
                   "declarations": [
                     {
                       "constant": false,
@@ -6178,10 +6131,7 @@
                       "id": 451,
                       "name": "require",
                       "nodeType": "Identifier",
-                      "overloadedDeclarations": [
-                        791,
-                        792
-                      ],
+                      "overloadedDeclarations": [791, 792],
                       "referencedDeclaration": 791,
                       "src": "5995:7:0",
                       "typeDescriptions": {
@@ -6208,9 +6158,7 @@
                   "src": "5995:44:0"
                 },
                 {
-                  "assignments": [
-                    462
-                  ],
+                  "assignments": [462],
                   "declarations": [
                     {
                       "constant": false,
@@ -6415,9 +6363,7 @@
               "src": "6187:138:0",
               "statements": [
                 {
-                  "assignments": [
-                    477
-                  ],
+                  "assignments": [477],
                   "declarations": [
                     {
                       "constant": false,
@@ -6554,9 +6500,7 @@
                   "src": "6198:47:0"
                 },
                 {
-                  "assignments": [
-                    486
-                  ],
+                  "assignments": [486],
                   "declarations": [
                     {
                       "constant": false,
@@ -6868,10 +6812,7 @@
                       "id": 502,
                       "name": "require",
                       "nodeType": "Identifier",
-                      "overloadedDeclarations": [
-                        791,
-                        792
-                      ],
+                      "overloadedDeclarations": [791, 792],
                       "referencedDeclaration": 791,
                       "src": "6412:7:0",
                       "typeDescriptions": {
@@ -7187,9 +7128,7 @@
               "src": "6596:139:0",
               "statements": [
                 {
-                  "assignments": [
-                    530
-                  ],
+                  "assignments": [530],
                   "declarations": [
                     {
                       "constant": false,
@@ -8002,33 +7941,18 @@
   "legacyAST": {
     "absolutePath": "/C/Users/Justin Acevero/DAPP Projects/Masterclass Projects/Yield Aggregator/yield-aggregator/src/contracts/Aggregator.sol",
     "exportedSymbols": {
-      "AaveLendingPool": [
-        124
-      ],
-      "Aggregator": [
-        588
-      ],
-      "DAI": [
-        39
-      ],
-      "aDAI": [
-        74
-      ],
-      "cDAI": [
-        66
-      ]
+      "AaveLendingPool": [124],
+      "Aggregator": [588],
+      "DAI": [39],
+      "aDAI": [74],
+      "cDAI": [66]
     },
     "id": 589,
     "nodeType": "SourceUnit",
     "nodes": [
       {
         "id": 1,
-        "literals": [
-          "solidity",
-          "^",
-          "0.5",
-          ".16"
-        ],
+        "literals": ["solidity", "^", "0.5", ".16"],
         "nodeType": "PragmaDirective",
         "src": "0:24:0"
       },
@@ -8050,9 +7974,7 @@
         "documentation": null,
         "fullyImplemented": false,
         "id": 39,
-        "linearizedBaseContracts": [
-          39
-        ],
+        "linearizedBaseContracts": [39],
         "name": "DAI",
         "nodeType": "ContractDefinition",
         "nodes": [
@@ -8500,9 +8422,7 @@
         "documentation": null,
         "fullyImplemented": false,
         "id": 66,
-        "linearizedBaseContracts": [
-          66
-        ],
+        "linearizedBaseContracts": [66],
         "name": "cDAI",
         "nodeType": "ContractDefinition",
         "nodes": [
@@ -8815,9 +8735,7 @@
         "documentation": null,
         "fullyImplemented": false,
         "id": 74,
-        "linearizedBaseContracts": [
-          74
-        ],
+        "linearizedBaseContracts": [74],
         "name": "aDAI",
         "nodeType": "ContractDefinition",
         "nodes": [
@@ -8914,9 +8832,7 @@
         "documentation": null,
         "fullyImplemented": false,
         "id": 124,
-        "linearizedBaseContracts": [
-          124
-        ],
+        "linearizedBaseContracts": [124],
         "name": "AaveLendingPool",
         "nodeType": "ContractDefinition",
         "nodes": [
@@ -9545,9 +9461,7 @@
         "documentation": null,
         "fullyImplemented": true,
         "id": 588,
-        "linearizedBaseContracts": [
-          588
-        ],
+        "linearizedBaseContracts": [588],
         "name": "Aggregator",
         "nodeType": "ContractDefinition",
         "nodes": [
@@ -10401,10 +10315,7 @@
                       "id": 182,
                       "name": "require",
                       "nodeType": "Identifier",
-                      "overloadedDeclarations": [
-                        791,
-                        792
-                      ],
+                      "overloadedDeclarations": [791, 792],
                       "referencedDeclaration": 791,
                       "src": "2651:7:0",
                       "typeDescriptions": {
@@ -10616,10 +10527,7 @@
                       "id": 211,
                       "name": "require",
                       "nodeType": "Identifier",
-                      "overloadedDeclarations": [
-                        791,
-                        792
-                      ],
+                      "overloadedDeclarations": [791, 792],
                       "referencedDeclaration": 791,
                       "src": "2945:7:0",
                       "typeDescriptions": {
@@ -11335,10 +11243,7 @@
                             "id": 248,
                             "name": "require",
                             "nodeType": "Identifier",
-                            "overloadedDeclarations": [
-                              791,
-                              792
-                            ],
+                            "overloadedDeclarations": [791, 792],
                             "referencedDeclaration": 791,
                             "src": "3477:7:0",
                             "typeDescriptions": {
@@ -11752,10 +11657,7 @@
                       "id": 288,
                       "name": "require",
                       "nodeType": "Identifier",
-                      "overloadedDeclarations": [
-                        791,
-                        792
-                      ],
+                      "overloadedDeclarations": [791, 792],
                       "referencedDeclaration": 791,
                       "src": "3948:7:0",
                       "typeDescriptions": {
@@ -11997,10 +11899,7 @@
                             "id": 299,
                             "name": "require",
                             "nodeType": "Identifier",
-                            "overloadedDeclarations": [
-                              791,
-                              792
-                            ],
+                            "overloadedDeclarations": [791, 792],
                             "referencedDeclaration": 791,
                             "src": "4096:7:0",
                             "typeDescriptions": {
@@ -12030,9 +11929,7 @@
                   }
                 },
                 {
-                  "assignments": [
-                    313
-                  ],
+                  "assignments": [313],
                   "declarations": [
                     {
                       "constant": false,
@@ -12544,10 +12441,7 @@
                       "id": 350,
                       "name": "require",
                       "nodeType": "Identifier",
-                      "overloadedDeclarations": [
-                        791,
-                        792
-                      ],
+                      "overloadedDeclarations": [791, 792],
                       "referencedDeclaration": 791,
                       "src": "4680:7:0",
                       "typeDescriptions": {
@@ -12574,9 +12468,7 @@
                   "src": "4680:28:0"
                 },
                 {
-                  "assignments": [
-                    357
-                  ],
+                  "assignments": [357],
                   "declarations": [
                     {
                       "constant": false,
@@ -14064,10 +13956,7 @@
                       "id": 451,
                       "name": "require",
                       "nodeType": "Identifier",
-                      "overloadedDeclarations": [
-                        791,
-                        792
-                      ],
+                      "overloadedDeclarations": [791, 792],
                       "referencedDeclaration": 791,
                       "src": "5995:7:0",
                       "typeDescriptions": {
@@ -14094,9 +13983,7 @@
                   "src": "5995:44:0"
                 },
                 {
-                  "assignments": [
-                    462
-                  ],
+                  "assignments": [462],
                   "declarations": [
                     {
                       "constant": false,
@@ -14301,9 +14188,7 @@
               "src": "6187:138:0",
               "statements": [
                 {
-                  "assignments": [
-                    477
-                  ],
+                  "assignments": [477],
                   "declarations": [
                     {
                       "constant": false,
@@ -14440,9 +14325,7 @@
                   "src": "6198:47:0"
                 },
                 {
-                  "assignments": [
-                    486
-                  ],
+                  "assignments": [486],
                   "declarations": [
                     {
                       "constant": false,
@@ -14754,10 +14637,7 @@
                       "id": 502,
                       "name": "require",
                       "nodeType": "Identifier",
-                      "overloadedDeclarations": [
-                        791,
-                        792
-                      ],
+                      "overloadedDeclarations": [791, 792],
                       "referencedDeclaration": 791,
                       "src": "6412:7:0",
                       "typeDescriptions": {
@@ -15073,9 +14953,7 @@
               "src": "6596:139:0",
               "statements": [
                 {
-                  "assignments": [
-                    530
-                  ],
+                  "assignments": [530],
                   "declarations": [
                     {
                       "constant": false,

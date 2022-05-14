@@ -44,7 +44,6 @@ const styles = {
   },
 };
 
-
 function Account() {
   const { authenticate, isAuthenticated, account, chainId, logout } =
     useMoralis();
@@ -81,15 +80,13 @@ function Account() {
             Connect Wallet
           </div>
           <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr" }}>
-            {connectors.map(({ title, icon, connectorId, priority }, key) => (
+            {connectors.map(({ title, icon, connectorId }, key) => (
               <div
                 style={styles.connector}
                 key={key}
                 onClick={async () => {
                   try {
-                    if (priority === 2)
-                    {
-         
+                    if (  title === "Email Sign-in") {
                       const email = prompt("Enter your email address", "");
                       setIsAuthModalVisible(false);
 
@@ -99,13 +96,11 @@ function Account() {
                         apiKey: "pk_live_5074FD80BF3F7EB9",
                         network: "kovan",
                       });
-                      
+                    } else {
+                      await authenticate({ provider: connectorId });
+                      window.localStorage.setItem("connectorId", connectorId);
+                      setIsAuthModalVisible(false);
                     }
-                    else {
-                    await authenticate({ provider: connectorId });
-                    window.localStorage.setItem("connectorId", connectorId);
-                    setIsAuthModalVisible(false);
-                     }
                   } catch (e) {
                     console.error(e);
                   }
