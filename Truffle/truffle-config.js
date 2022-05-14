@@ -1,3 +1,8 @@
+
+require('babel-register');
+require('babel-polyfill');
+
+
 module.exports = {
   // Uncommenting the defaults below
   // provides for an easier quick-start with Ganache.
@@ -35,4 +40,14 @@ module.exports = {
   //     },
   //   },
   // },
+  contracts_directory: './src/contracts/',
+  contracts_build_directory: './src/abis/',
+  compilers: {
+    solc: {
+      optimizer: {
+        enabled: true,
+        runs: 200
+      }
+    }
+  }
 };

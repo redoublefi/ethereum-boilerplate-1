@@ -26,6 +26,8 @@ import MenuItems from "./components/MenuItems";
 import image from "./logo.png";
 import Home from "components/Home";
 import SignIn from "components/Magiclink/Signin";
+import Dapp from "components/Dapp";
+
 const { Header, Footer } = Layout;
 
 const styles = {
@@ -141,6 +143,9 @@ const App = ({ isServerInfo }) => {
               </Route>
               <Route path="/magiclink">
                 <SignIn />
+              </Route>
+              <Route path="/dapp">
+                <Dapp />
               </Route>
               {/* <Route path="/Wallet">
               <Redirect Wallet />

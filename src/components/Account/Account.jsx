@@ -8,13 +8,7 @@ import { SelectOutlined } from "@ant-design/icons";
 import { getExplorer } from "helpers/networks";
 import Text from "antd/lib/typography/Text";
 import { connectors } from "./config";
-// import SignIn from "../Magiclink/Signin";
 
-// import {
-//   BrowserRouter as Router,
-//   Switch,
-//   Route,
-// } from "react-router-dom";
 const styles = {
   account: {
     height: "42px",
@@ -49,6 +43,7 @@ const styles = {
     height: "30px",
   },
 };
+
 
 function Account() {
   const { authenticate, isAuthenticated, account, chainId, logout } =
@@ -86,27 +81,31 @@ function Account() {
             Connect Wallet
           </div>
           <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr" }}>
-            {connectors.map(({ title, icon, connectorId }, key) => (
+            {connectors.map(({ title, icon, connectorId, priority }, key) => (
               <div
                 style={styles.connector}
                 key={key}
                 onClick={async () => {
                   try {
-                    // if (test)
-                    // {
-                    //     <Router>
-                    //       <Switch>
-                    //         <Route exact path="/">
-                    //           <SignIn />
-                    //         </Route>
-                    //       </Switch>
-                    //     </Router>
-                    // }
-                    // else {
+                    if (priority === 2)
+                    {
+         
+                      const email = prompt("Enter your email address", "");
+                      setIsAuthModalVisible(false);
+
+                      await authenticate({
+                        provider: "magicLink",
+                        email: email,
+                        apiKey: "pk_live_5074FD80BF3F7EB9",
+                        network: "kovan",
+                      });
+                      
+                    }
+                    else {
                     await authenticate({ provider: connectorId });
                     window.localStorage.setItem("connectorId", connectorId);
                     setIsAuthModalVisible(false);
-                    // }
+                     }
                   } catch (e) {
                     console.error(e);
                   }

@@ -5,7 +5,7 @@ import MathWallet from "./WalletIcons/MathWallet.svg";
 import TokenPocket from "./WalletIcons/TokenPocket.svg";
 import SafePal from "./WalletIcons/SafePal.svg";*/
 import TrustWallet from "./WalletIcons/TrustWallet.png";
-// import EmailSignin from "./WalletIcons/EmailSignin.png";
+import EmailSignin from "./WalletIcons/EmailSignin.png";
 
 export const connectors = [
   {
@@ -26,13 +26,13 @@ export const connectors = [
     connectorId: "injected",
     priority: 3,
   },
-  // {
-  //   title: "Email Sign-in",
-  //   icon: EmailSignin,
-  //   height: "42px",
-  //   connectorId: "injected",
-  //   priority: 2,
-  // },
+  {
+    title: "Email Sign-in",
+    icon: EmailSignin,
+    height: "42px",
+    connectorId: "injected",
+    priority: 2,
+  },
   /*{
     title: "MathWallet",
     icon: MathWallet,

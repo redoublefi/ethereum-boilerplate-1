@@ -39,6 +39,9 @@ function MenuItems() {
       <Menu.Item key="/erc20transfers">
         <NavLink to="/erc20transfers"> Transfers</NavLink>
       </Menu.Item>
+      <Menu.Item key="/Dapp">
+        <NavLink to="/Dapp"> Earn</NavLink>
+      </Menu.Item>
       {/*<Menu.Item key="/nftBalance">
         <NavLink to="/nftBalance">🖼 NFTs</NavLink>
       </Menu.Item> */}
@@ -46,9 +49,9 @@ function MenuItems() {
         <NavLink to="/contract"> Contract</NavLink>
       </Menu.Item> */}
 
-      <Menu.Item key="/magiclink">
+      {/* <Menu.Item key="/magiclink">
         <NavLink to="/magiclink">Email Login</NavLink>
-      </Menu.Item>
+      </Menu.Item> */}
     </Menu>
   );
 }
