@@ -51,7 +51,7 @@ function Ramper() {
   return (
     <div className="Ramp">
       <iframe
-        src="https://ri-demo-staging-kovan.firebaseapp.com/&hostLogoUrl=https://i.ibb.co/fFd9p97/redouble-logo-dotted-png-1000x1000.png&variant=auto"
+        src="https://buy.ramp.network/?hostAppName=Ramp_Demo&hostLogoUrl=https://i.ibb.co/fFd9p97/redouble-logo-dotted-png-1000x1000.png&variant=auto"
         target="blank"
         width={400}
         height={650}

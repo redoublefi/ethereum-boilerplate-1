@@ -13,10 +13,12 @@ module.exports = {
   networks: {
     develop: {
       host: "127.0.0.1",
-      port: 7545,
-      chainId: 1337,
-      network_id: 1337,
-      deploymentPollingInterval: 10,
+      port: 8545,
+      // chainId: 42,
+      network_id: "*",
+      // from: '0x7926223070547d2d15b2ef5e7383e541c338ffe9',
+      // gasPrice: '0x64', 
+      // deploymentPollingInterval: 10,
     },
   },
   //
