@@ -1,7 +1,5 @@
-
-require('babel-register');
-require('babel-polyfill');
-
+require("babel-register");
+require("babel-polyfill");
 
 module.exports = {
   // Uncommenting the defaults below
@@ -17,7 +15,7 @@ module.exports = {
       // chainId: 42,
       network_id: "*",
       // from: '0x7926223070547d2d15b2ef5e7383e541c338ffe9',
-      // gasPrice: '0x64', 
+      // gasPrice: '0x64',
       // deploymentPollingInterval: 10,
     },
   },
@@ -42,14 +40,14 @@ module.exports = {
   //     },
   //   },
   // },
-  contracts_directory: './src/contracts/',
-  contracts_build_directory: './src/abis/',
+  contracts_directory: "./src/contracts/",
+  contracts_build_directory: "./src/abis/",
   compilers: {
     solc: {
       optimizer: {
         enabled: true,
-        runs: 200
-      }
-    }
-  }
+        runs: 200,
+      },
+    },
+  },
 };

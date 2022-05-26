@@ -86,7 +86,7 @@ function Account() {
                 key={key}
                 onClick={async () => {
                   try {
-                    if (  title === "Email Sign-in") {
+                    if (title === "Email Sign-in") {
                       const email = prompt("Enter your email address", "");
                       setIsAuthModalVisible(false);
 

@@ -116,33 +116,18 @@
   "ast": {
     "absolutePath": "/C/Users/Ramya/Code/ethereum-boilerplate-2/src/contracts/Aggregator.sol",
     "exportedSymbols": {
-      "AaveLendingPool": [
-        124
-      ],
-      "Aggregator": [
-        588
-      ],
-      "DAI": [
-        39
-      ],
-      "aDAI": [
-        74
-      ],
-      "cDAI": [
-        66
-      ]
+      "AaveLendingPool": [124],
+      "Aggregator": [588],
+      "DAI": [39],
+      "aDAI": [74],
+      "cDAI": [66]
     },
     "id": 589,
     "nodeType": "SourceUnit",
     "nodes": [
       {
         "id": 1,
-        "literals": [
-          "solidity",
-          "^",
-          "0.5",
-          ".16"
-        ],
+        "literals": ["solidity", "^", "0.5", ".16"],
         "nodeType": "PragmaDirective",
         "src": "0:24:0"
       },
@@ -164,9 +149,7 @@
         "documentation": null,
         "fullyImplemented": false,
         "id": 39,
-        "linearizedBaseContracts": [
-          39
-        ],
+        "linearizedBaseContracts": [39],
         "name": "DAI",
         "nodeType": "ContractDefinition",
         "nodes": [
@@ -614,9 +597,7 @@
         "documentation": null,
         "fullyImplemented": false,
         "id": 66,
-        "linearizedBaseContracts": [
-          66
-        ],
+        "linearizedBaseContracts": [66],
         "name": "cDAI",
         "nodeType": "ContractDefinition",
         "nodes": [
@@ -929,9 +910,7 @@
         "documentation": null,
         "fullyImplemented": false,
         "id": 74,
-        "linearizedBaseContracts": [
-          74
-        ],
+        "linearizedBaseContracts": [74],
         "name": "aDAI",
         "nodeType": "ContractDefinition",
         "nodes": [
@@ -1028,9 +1007,7 @@
         "documentation": null,
         "fullyImplemented": false,
         "id": 124,
-        "linearizedBaseContracts": [
-          124
-        ],
+        "linearizedBaseContracts": [124],
         "name": "AaveLendingPool",
         "nodeType": "ContractDefinition",
         "nodes": [
@@ -1659,9 +1636,7 @@
         "documentation": null,
         "fullyImplemented": true,
         "id": 588,
-        "linearizedBaseContracts": [
-          588
-        ],
+        "linearizedBaseContracts": [588],
         "name": "Aggregator",
         "nodeType": "ContractDefinition",
         "nodes": [
@@ -2515,10 +2490,7 @@
                       "id": 182,
                       "name": "require",
                       "nodeType": "Identifier",
-                      "overloadedDeclarations": [
-                        852,
-                        853
-                      ],
+                      "overloadedDeclarations": [852, 853],
                       "referencedDeclaration": 852,
                       "src": "2651:7:0",
                       "typeDescriptions": {
@@ -2730,10 +2702,7 @@
                       "id": 211,
                       "name": "require",
                       "nodeType": "Identifier",
-                      "overloadedDeclarations": [
-                        852,
-                        853
-                      ],
+                      "overloadedDeclarations": [852, 853],
                       "referencedDeclaration": 852,
                       "src": "2945:7:0",
                       "typeDescriptions": {
@@ -3449,10 +3418,7 @@
                             "id": 248,
                             "name": "require",
                             "nodeType": "Identifier",
-                            "overloadedDeclarations": [
-                              852,
-                              853
-                            ],
+                            "overloadedDeclarations": [852, 853],
                             "referencedDeclaration": 852,
                             "src": "3477:7:0",
                             "typeDescriptions": {
@@ -3866,10 +3832,7 @@
                       "id": 288,
                       "name": "require",
                       "nodeType": "Identifier",
-                      "overloadedDeclarations": [
-                        852,
-                        853
-                      ],
+                      "overloadedDeclarations": [852, 853],
                       "referencedDeclaration": 852,
                       "src": "3948:7:0",
                       "typeDescriptions": {
@@ -4111,10 +4074,7 @@
                             "id": 299,
                             "name": "require",
                             "nodeType": "Identifier",
-                            "overloadedDeclarations": [
-                              852,
-                              853
-                            ],
+                            "overloadedDeclarations": [852, 853],
                             "referencedDeclaration": 852,
                             "src": "4096:7:0",
                             "typeDescriptions": {
@@ -4144,9 +4104,7 @@
                   }
                 },
                 {
-                  "assignments": [
-                    313
-                  ],
+                  "assignments": [313],
                   "declarations": [
                     {
                       "constant": false,
@@ -4658,10 +4616,7 @@
                       "id": 350,
                       "name": "require",
                       "nodeType": "Identifier",
-                      "overloadedDeclarations": [
-                        852,
-                        853
-                      ],
+                      "overloadedDeclarations": [852, 853],
                       "referencedDeclaration": 852,
                       "src": "4680:7:0",
                       "typeDescriptions": {
@@ -4688,9 +4643,7 @@
                   "src": "4680:28:0"
                 },
                 {
-                  "assignments": [
-                    357
-                  ],
+                  "assignments": [357],
                   "declarations": [
                     {
                       "constant": false,
@@ -6178,10 +6131,7 @@
                       "id": 451,
                       "name": "require",
                       "nodeType": "Identifier",
-                      "overloadedDeclarations": [
-                        852,
-                        853
-                      ],
+                      "overloadedDeclarations": [852, 853],
                       "referencedDeclaration": 852,
                       "src": "5995:7:0",
                       "typeDescriptions": {
@@ -6208,9 +6158,7 @@
                   "src": "5995:44:0"
                 },
                 {
-                  "assignments": [
-                    462
-                  ],
+                  "assignments": [462],
                   "declarations": [
                     {
                       "constant": false,
@@ -6415,9 +6363,7 @@
               "src": "6187:138:0",
               "statements": [
                 {
-                  "assignments": [
-                    477
-                  ],
+                  "assignments": [477],
                   "declarations": [
                     {
                       "constant": false,
@@ -6554,9 +6500,7 @@
                   "src": "6198:47:0"
                 },
                 {
-                  "assignments": [
-                    486
-                  ],
+                  "assignments": [486],
                   "declarations": [
                     {
                       "constant": false,
@@ -6868,10 +6812,7 @@
                       "id": 502,
                       "name": "require",
                       "nodeType": "Identifier",
-                      "overloadedDeclarations": [
-                        852,
-                        853
-                      ],
+                      "overloadedDeclarations": [852, 853],
                       "referencedDeclaration": 852,
                       "src": "6412:7:0",
                       "typeDescriptions": {
@@ -7187,9 +7128,7 @@
               "src": "6596:139:0",
               "statements": [
                 {
-                  "assignments": [
-                    530
-                  ],
+                  "assignments": [530],
                   "declarations": [
                     {
                       "constant": false,
@@ -8003,32 +7942,17 @@
     "attributes": {
       "absolutePath": "/C/Users/Ramya/Code/ethereum-boilerplate-2/src/contracts/Aggregator.sol",
       "exportedSymbols": {
-        "AaveLendingPool": [
-          124
-        ],
-        "Aggregator": [
-          588
-        ],
-        "DAI": [
-          39
-        ],
-        "aDAI": [
-          74
-        ],
-        "cDAI": [
-          66
-        ]
+        "AaveLendingPool": [124],
+        "Aggregator": [588],
+        "DAI": [39],
+        "aDAI": [74],
+        "cDAI": [66]
       }
     },
     "children": [
       {
         "attributes": {
-          "literals": [
-            "solidity",
-            "^",
-            "0.5",
-            ".16"
-          ]
+          "literals": ["solidity", "^", "0.5", ".16"]
         },
         "id": 1,
         "name": "PragmaDirective",
@@ -8040,9 +7964,7 @@
           "absolutePath": "openzeppelin-solidity/contracts/math/SafeMath.sol",
           "file": "openzeppelin-solidity/contracts/math/SafeMath.sol",
           "scope": 589,
-          "symbolAliases": [
-            null
-          ],
+          "symbolAliases": [null],
           "unitAlias": ""
         },
         "id": 2,
@@ -8051,18 +7973,12 @@
       },
       {
         "attributes": {
-          "baseContracts": [
-            null
-          ],
-          "contractDependencies": [
-            null
-          ],
+          "baseContracts": [null],
+          "contractDependencies": [null],
           "contractKind": "interface",
           "documentation": null,
           "fullyImplemented": false,
-          "linearizedBaseContracts": [
-            39
-          ],
+          "linearizedBaseContracts": [39],
           "name": "DAI",
           "scope": 589
         },
@@ -8074,9 +7990,7 @@
               "implemented": false,
               "isConstructor": false,
               "kind": "function",
-              "modifiers": [
-                null
-              ],
+              "modifiers": [null],
               "name": "approve",
               "scope": 39,
               "stateMutability": "nonpayable",
@@ -8189,9 +8103,7 @@
               "implemented": false,
               "isConstructor": false,
               "kind": "function",
-              "modifiers": [
-                null
-              ],
+              "modifiers": [null],
               "name": "transfer",
               "scope": 39,
               "stateMutability": "nonpayable",
@@ -8304,9 +8216,7 @@
               "implemented": false,
               "isConstructor": false,
               "kind": "function",
-              "modifiers": [
-                null
-              ],
+              "modifiers": [null],
               "name": "transferFrom",
               "scope": 39,
               "stateMutability": "nonpayable",
@@ -8446,9 +8356,7 @@
               "implemented": false,
               "isConstructor": false,
               "kind": "function",
-              "modifiers": [
-                null
-              ],
+              "modifiers": [null],
               "name": "balanceOf",
               "scope": 39,
               "stateMutability": "view",
@@ -8535,18 +8443,12 @@
       },
       {
         "attributes": {
-          "baseContracts": [
-            null
-          ],
-          "contractDependencies": [
-            null
-          ],
+          "baseContracts": [null],
+          "contractDependencies": [null],
           "contractKind": "interface",
           "documentation": null,
           "fullyImplemented": false,
-          "linearizedBaseContracts": [
-            66
-          ],
+          "linearizedBaseContracts": [66],
           "name": "cDAI",
           "scope": 589
         },
@@ -8558,9 +8460,7 @@
               "implemented": false,
               "isConstructor": false,
               "kind": "function",
-              "modifiers": [
-                null
-              ],
+              "modifiers": [null],
               "name": "mint",
               "scope": 66,
               "stateMutability": "nonpayable",
@@ -8646,9 +8546,7 @@
               "implemented": false,
               "isConstructor": false,
               "kind": "function",
-              "modifiers": [
-                null
-              ],
+              "modifiers": [null],
               "name": "redeem",
               "scope": 66,
               "stateMutability": "nonpayable",
@@ -8734,9 +8632,7 @@
               "implemented": false,
               "isConstructor": false,
               "kind": "function",
-              "modifiers": [
-                null
-              ],
+              "modifiers": [null],
               "name": "supplyRatePerBlock",
               "scope": 66,
               "stateMutability": "nonpayable",
@@ -8746,9 +8642,7 @@
             "children": [
               {
                 "attributes": {
-                  "parameters": [
-                    null
-                  ]
+                  "parameters": [null]
                 },
                 "children": [],
                 "id": 54,
@@ -8800,9 +8694,7 @@
               "implemented": false,
               "isConstructor": false,
               "kind": "function",
-              "modifiers": [
-                null
-              ],
+              "modifiers": [null],
               "name": "balanceOf",
               "scope": 66,
               "stateMutability": "view",
@@ -8889,18 +8781,12 @@
       },
       {
         "attributes": {
-          "baseContracts": [
-            null
-          ],
-          "contractDependencies": [
-            null
-          ],
+          "baseContracts": [null],
+          "contractDependencies": [null],
           "contractKind": "interface",
           "documentation": null,
           "fullyImplemented": false,
-          "linearizedBaseContracts": [
-            74
-          ],
+          "linearizedBaseContracts": [74],
           "name": "aDAI",
           "scope": 589
         },
@@ -8912,9 +8798,7 @@
               "implemented": false,
               "isConstructor": false,
               "kind": "function",
-              "modifiers": [
-                null
-              ],
+              "modifiers": [null],
               "name": "balanceOf",
               "scope": 74,
               "stateMutability": "view",
@@ -9001,18 +8885,12 @@
       },
       {
         "attributes": {
-          "baseContracts": [
-            null
-          ],
-          "contractDependencies": [
-            null
-          ],
+          "baseContracts": [null],
+          "contractDependencies": [null],
           "contractKind": "interface",
           "documentation": null,
           "fullyImplemented": false,
-          "linearizedBaseContracts": [
-            124
-          ],
+          "linearizedBaseContracts": [124],
           "name": "AaveLendingPool",
           "scope": 589
         },
@@ -9024,9 +8902,7 @@
               "implemented": false,
               "isConstructor": false,
               "kind": "function",
-              "modifiers": [
-                null
-              ],
+              "modifiers": [null],
               "name": "deposit",
               "scope": 124,
               "stateMutability": "nonpayable",
@@ -9149,9 +9025,7 @@
               },
               {
                 "attributes": {
-                  "parameters": [
-                    null
-                  ]
+                  "parameters": [null]
                 },
                 "children": [],
                 "id": 84,
@@ -9170,9 +9044,7 @@
               "implemented": false,
               "isConstructor": false,
               "kind": "function",
-              "modifiers": [
-                null
-              ],
+              "modifiers": [null],
               "name": "withdraw",
               "scope": 124,
               "stateMutability": "nonpayable",
@@ -9269,9 +9141,7 @@
               },
               {
                 "attributes": {
-                  "parameters": [
-                    null
-                  ]
+                  "parameters": [null]
                 },
                 "children": [],
                 "id": 93,
@@ -9290,9 +9160,7 @@
               "implemented": false,
               "isConstructor": false,
               "kind": "function",
-              "modifiers": [
-                null
-              ],
+              "modifiers": [null],
               "name": "getReserveData",
               "scope": 124,
               "stateMutability": "nonpayable",
@@ -9669,18 +9537,12 @@
       },
       {
         "attributes": {
-          "baseContracts": [
-            null
-          ],
-          "contractDependencies": [
-            null
-          ],
+          "baseContracts": [null],
+          "contractDependencies": [null],
           "contractKind": "contract",
           "documentation": null,
           "fullyImplemented": true,
-          "linearizedBaseContracts": [
-            588
-          ],
+          "linearizedBaseContracts": [588],
           "name": "Aggregator",
           "scope": 589
         },
@@ -9864,9 +9726,7 @@
                   "isPure": true,
                   "isStructConstructorCall": false,
                   "lValueRequested": false,
-                  "names": [
-                    null
-                  ],
+                  "names": [null],
                   "type": "contract DAI",
                   "type_conversion": true
                 },
@@ -9879,9 +9739,7 @@
                           "typeString": "address payable"
                         }
                       ],
-                      "overloadedDeclarations": [
-                        null
-                      ],
+                      "overloadedDeclarations": [null],
                       "referencedDeclaration": 39,
                       "type": "type(contract DAI)",
                       "value": "DAI"
@@ -9947,9 +9805,7 @@
                   "isPure": true,
                   "isStructConstructorCall": false,
                   "lValueRequested": false,
-                  "names": [
-                    null
-                  ],
+                  "names": [null],
                   "type": "contract cDAI",
                   "type_conversion": true
                 },
@@ -9962,9 +9818,7 @@
                           "typeString": "address payable"
                         }
                       ],
-                      "overloadedDeclarations": [
-                        null
-                      ],
+                      "overloadedDeclarations": [null],
                       "referencedDeclaration": 66,
                       "type": "type(contract cDAI)",
                       "value": "cDAI"
@@ -10030,9 +9884,7 @@
                   "isPure": true,
                   "isStructConstructorCall": false,
                   "lValueRequested": false,
-                  "names": [
-                    null
-                  ],
+                  "names": [null],
                   "type": "contract aDAI",
                   "type_conversion": true
                 },
@@ -10045,9 +9897,7 @@
                           "typeString": "address payable"
                         }
                       ],
-                      "overloadedDeclarations": [
-                        null
-                      ],
+                      "overloadedDeclarations": [null],
                       "referencedDeclaration": 74,
                       "type": "type(contract aDAI)",
                       "value": "aDAI"
@@ -10113,9 +9963,7 @@
                   "isPure": true,
                   "isStructConstructorCall": false,
                   "lValueRequested": false,
-                  "names": [
-                    null
-                  ],
+                  "names": [null],
                   "type": "contract AaveLendingPool",
                   "type_conversion": true
                 },
@@ -10128,9 +9976,7 @@
                           "typeString": "address payable"
                         }
                       ],
-                      "overloadedDeclarations": [
-                        null
-                      ],
+                      "overloadedDeclarations": [null],
                       "referencedDeclaration": 124,
                       "type": "type(contract AaveLendingPool)",
                       "value": "AaveLendingPool"
@@ -10481,9 +10327,7 @@
             "children": [
               {
                 "attributes": {
-                  "parameters": [
-                    null
-                  ]
+                  "parameters": [null]
                 },
                 "children": [],
                 "id": 181,
@@ -10502,9 +10346,7 @@
                           "isPure": false,
                           "isStructConstructorCall": false,
                           "lValueRequested": false,
-                          "names": [
-                            null
-                          ],
+                          "names": [null],
                           "type": "tuple()",
                           "type_conversion": false
                         },
@@ -10517,10 +10359,7 @@
                                   "typeString": "bool"
                                 }
                               ],
-                              "overloadedDeclarations": [
-                                852,
-                                853
-                              ],
+                              "overloadedDeclarations": [852, 853],
                               "referencedDeclaration": 852,
                               "type": "function (bool) pure",
                               "value": "require"
@@ -10559,9 +10398,7 @@
                                   {
                                     "attributes": {
                                       "argumentTypes": null,
-                                      "overloadedDeclarations": [
-                                        null
-                                      ],
+                                      "overloadedDeclarations": [null],
                                       "referencedDeclaration": 849,
                                       "type": "msg",
                                       "value": "msg"
@@ -10578,9 +10415,7 @@
                               {
                                 "attributes": {
                                   "argumentTypes": null,
-                                  "overloadedDeclarations": [
-                                    null
-                                  ],
+                                  "overloadedDeclarations": [null],
                                   "referencedDeclaration": 132,
                                   "type": "address",
                                   "value": "owner"
@@ -10625,9 +10460,7 @@
               "implemented": true,
               "isConstructor": true,
               "kind": "constructor",
-              "modifiers": [
-                null
-              ],
+              "modifiers": [null],
               "name": "",
               "scope": 588,
               "stateMutability": "nonpayable",
@@ -10637,9 +10470,7 @@
             "children": [
               {
                 "attributes": {
-                  "parameters": [
-                    null
-                  ]
+                  "parameters": [null]
                 },
                 "children": [],
                 "id": 192,
@@ -10648,9 +10479,7 @@
               },
               {
                 "attributes": {
-                  "parameters": [
-                    null
-                  ]
+                  "parameters": [null]
                 },
                 "children": [],
                 "id": 193,
@@ -10675,9 +10504,7 @@
                           {
                             "attributes": {
                               "argumentTypes": null,
-                              "overloadedDeclarations": [
-                                null
-                              ],
+                              "overloadedDeclarations": [null],
                               "referencedDeclaration": 132,
                               "type": "address",
                               "value": "owner"
@@ -10701,9 +10528,7 @@
                               {
                                 "attributes": {
                                   "argumentTypes": null,
-                                  "overloadedDeclarations": [
-                                    null
-                                  ],
+                                  "overloadedDeclarations": [null],
                                   "referencedDeclaration": 849,
                                   "type": "msg",
                                   "value": "msg"
@@ -10837,9 +10662,7 @@
               },
               {
                 "attributes": {
-                  "parameters": [
-                    null
-                  ]
+                  "parameters": [null]
                 },
                 "children": [],
                 "id": 210,
@@ -10854,9 +10677,7 @@
                   {
                     "attributes": {
                       "argumentTypes": null,
-                      "overloadedDeclarations": [
-                        null
-                      ],
+                      "overloadedDeclarations": [null],
                       "referencedDeclaration": 191,
                       "type": "modifier ()",
                       "value": "onlyOwner"
@@ -10882,9 +10703,7 @@
                           "isPure": false,
                           "isStructConstructorCall": false,
                           "lValueRequested": false,
-                          "names": [
-                            null
-                          ],
+                          "names": [null],
                           "type": "tuple()",
                           "type_conversion": false
                         },
@@ -10897,10 +10716,7 @@
                                   "typeString": "bool"
                                 }
                               ],
-                              "overloadedDeclarations": [
-                                852,
-                                853
-                              ],
+                              "overloadedDeclarations": [852, 853],
                               "referencedDeclaration": 852,
                               "type": "function (bool) pure",
                               "value": "require"
@@ -10927,9 +10743,7 @@
                               {
                                 "attributes": {
                                   "argumentTypes": null,
-                                  "overloadedDeclarations": [
-                                    null
-                                  ],
+                                  "overloadedDeclarations": [null],
                                   "referencedDeclaration": 202,
                                   "type": "uint256",
                                   "value": "_amount"
@@ -10993,9 +10807,7 @@
                           {
                             "attributes": {
                               "argumentTypes": null,
-                              "overloadedDeclarations": [
-                                null
-                              ],
+                              "overloadedDeclarations": [null],
                               "referencedDeclaration": 136,
                               "type": "uint256",
                               "value": "amountDeposited"
@@ -11038,9 +10850,7 @@
                                   "isPure": false,
                                   "isStructConstructorCall": false,
                                   "lValueRequested": false,
-                                  "names": [
-                                    null
-                                  ],
+                                  "names": [null],
                                   "type": "tuple()",
                                   "type_conversion": false
                                 },
@@ -11057,9 +10867,7 @@
                                           "typeString": "uint256"
                                         }
                                       ],
-                                      "overloadedDeclarations": [
-                                        null
-                                      ],
+                                      "overloadedDeclarations": [null],
                                       "referencedDeclaration": 444,
                                       "type": "function (uint256,uint256)",
                                       "value": "rebalance"
@@ -11071,9 +10879,7 @@
                                   {
                                     "attributes": {
                                       "argumentTypes": null,
-                                      "overloadedDeclarations": [
-                                        null
-                                      ],
+                                      "overloadedDeclarations": [null],
                                       "referencedDeclaration": 204,
                                       "type": "uint256",
                                       "value": "_compAPY"
@@ -11085,9 +10891,7 @@
                                   {
                                     "attributes": {
                                       "argumentTypes": null,
-                                      "overloadedDeclarations": [
-                                        null
-                                      ],
+                                      "overloadedDeclarations": [null],
                                       "referencedDeclaration": 206,
                                       "type": "uint256",
                                       "value": "_aaveAPY"
@@ -11126,9 +10930,7 @@
                           "isPure": false,
                           "isStructConstructorCall": false,
                           "lValueRequested": false,
-                          "names": [
-                            null
-                          ],
+                          "names": [null],
                           "type": "bool",
                           "type_conversion": false
                         },
@@ -11161,9 +10963,7 @@
                               {
                                 "attributes": {
                                   "argumentTypes": null,
-                                  "overloadedDeclarations": [
-                                    null
-                                  ],
+                                  "overloadedDeclarations": [null],
                                   "referencedDeclaration": 141,
                                   "type": "contract DAI",
                                   "value": "dai"
@@ -11192,9 +10992,7 @@
                               {
                                 "attributes": {
                                   "argumentTypes": null,
-                                  "overloadedDeclarations": [
-                                    null
-                                  ],
+                                  "overloadedDeclarations": [null],
                                   "referencedDeclaration": 849,
                                   "type": "msg",
                                   "value": "msg"
@@ -11216,9 +11014,7 @@
                               "isPure": false,
                               "isStructConstructorCall": false,
                               "lValueRequested": false,
-                              "names": [
-                                null
-                              ],
+                              "names": [null],
                               "type": "address",
                               "type_conversion": true
                             },
@@ -11245,9 +11041,7 @@
                               {
                                 "attributes": {
                                   "argumentTypes": null,
-                                  "overloadedDeclarations": [
-                                    null
-                                  ],
+                                  "overloadedDeclarations": [null],
                                   "referencedDeclaration": 873,
                                   "type": "contract Aggregator",
                                   "value": "this"
@@ -11264,9 +11058,7 @@
                           {
                             "attributes": {
                               "argumentTypes": null,
-                              "overloadedDeclarations": [
-                                null
-                              ],
+                              "overloadedDeclarations": [null],
                               "referencedDeclaration": 202,
                               "type": "uint256",
                               "value": "_amount"
@@ -11301,9 +11093,7 @@
                           {
                             "attributes": {
                               "argumentTypes": null,
-                              "overloadedDeclarations": [
-                                null
-                              ],
+                              "overloadedDeclarations": [null],
                               "referencedDeclaration": 136,
                               "type": "uint256",
                               "value": "amountDeposited"
@@ -11320,9 +11110,7 @@
                               "isPure": false,
                               "isStructConstructorCall": false,
                               "lValueRequested": false,
-                              "names": [
-                                null
-                              ],
+                              "names": [null],
                               "type": "uint256",
                               "type_conversion": false
                             },
@@ -11347,9 +11135,7 @@
                                   {
                                     "attributes": {
                                       "argumentTypes": null,
-                                      "overloadedDeclarations": [
-                                        null
-                                      ],
+                                      "overloadedDeclarations": [null],
                                       "referencedDeclaration": 136,
                                       "type": "uint256",
                                       "value": "amountDeposited"
@@ -11366,9 +11152,7 @@
                               {
                                 "attributes": {
                                   "argumentTypes": null,
-                                  "overloadedDeclarations": [
-                                    null
-                                  ],
+                                  "overloadedDeclarations": [null],
                                   "referencedDeclaration": 202,
                                   "type": "uint256",
                                   "value": "_amount"
@@ -11412,9 +11196,7 @@
                           {
                             "attributes": {
                               "argumentTypes": null,
-                              "overloadedDeclarations": [
-                                null
-                              ],
+                              "overloadedDeclarations": [null],
                               "referencedDeclaration": 204,
                               "type": "uint256",
                               "value": "_compAPY"
@@ -11426,9 +11208,7 @@
                           {
                             "attributes": {
                               "argumentTypes": null,
-                              "overloadedDeclarations": [
-                                null
-                              ],
+                              "overloadedDeclarations": [null],
                               "referencedDeclaration": 206,
                               "type": "uint256",
                               "value": "_aaveAPY"
@@ -11454,9 +11234,7 @@
                                   "isPure": false,
                                   "isStructConstructorCall": false,
                                   "lValueRequested": false,
-                                  "names": [
-                                    null
-                                  ],
+                                  "names": [null],
                                   "type": "tuple()",
                                   "type_conversion": false
                                 },
@@ -11469,10 +11247,7 @@
                                           "typeString": "bool"
                                         }
                                       ],
-                                      "overloadedDeclarations": [
-                                        852,
-                                        853
-                                      ],
+                                      "overloadedDeclarations": [852, 853],
                                       "referencedDeclaration": 852,
                                       "type": "function (bool) pure",
                                       "value": "require"
@@ -11504,9 +11279,7 @@
                                           "isPure": false,
                                           "isStructConstructorCall": false,
                                           "lValueRequested": false,
-                                          "names": [
-                                            null
-                                          ],
+                                          "names": [null],
                                           "type": "uint256",
                                           "type_conversion": false
                                         },
@@ -11519,9 +11292,7 @@
                                                   "typeString": "uint256"
                                                 }
                                               ],
-                                              "overloadedDeclarations": [
-                                                null
-                                              ],
+                                              "overloadedDeclarations": [null],
                                               "referencedDeclaration": 471,
                                               "type": "function (uint256) returns (uint256)",
                                               "value": "_depositToCompound"
@@ -11533,9 +11304,7 @@
                                           {
                                             "attributes": {
                                               "argumentTypes": null,
-                                              "overloadedDeclarations": [
-                                                null
-                                              ],
+                                              "overloadedDeclarations": [null],
                                               "referencedDeclaration": 202,
                                               "type": "uint256",
                                               "value": "_amount"
@@ -11597,9 +11366,7 @@
                                   {
                                     "attributes": {
                                       "argumentTypes": null,
-                                      "overloadedDeclarations": [
-                                        null
-                                      ],
+                                      "overloadedDeclarations": [null],
                                       "referencedDeclaration": 134,
                                       "type": "address",
                                       "value": "locationOfFunds"
@@ -11616,9 +11383,7 @@
                                       "isPure": false,
                                       "isStructConstructorCall": false,
                                       "lValueRequested": false,
-                                      "names": [
-                                        null
-                                      ],
+                                      "names": [null],
                                       "type": "address",
                                       "type_conversion": true
                                     },
@@ -11645,9 +11410,7 @@
                                       {
                                         "attributes": {
                                           "argumentTypes": null,
-                                          "overloadedDeclarations": [
-                                            null
-                                          ],
+                                          "overloadedDeclarations": [null],
                                           "referencedDeclaration": 146,
                                           "type": "contract cDAI",
                                           "value": "cDai"
@@ -11688,9 +11451,7 @@
                                   "isPure": false,
                                   "isStructConstructorCall": false,
                                   "lValueRequested": false,
-                                  "names": [
-                                    null
-                                  ],
+                                  "names": [null],
                                   "type": "uint256",
                                   "type_conversion": false
                                 },
@@ -11703,9 +11464,7 @@
                                           "typeString": "uint256"
                                         }
                                       ],
-                                      "overloadedDeclarations": [
-                                        null
-                                      ],
+                                      "overloadedDeclarations": [null],
                                       "referencedDeclaration": 526,
                                       "type": "function (uint256) returns (uint256)",
                                       "value": "_depositToAave"
@@ -11717,9 +11476,7 @@
                                   {
                                     "attributes": {
                                       "argumentTypes": null,
-                                      "overloadedDeclarations": [
-                                        null
-                                      ],
+                                      "overloadedDeclarations": [null],
                                       "referencedDeclaration": 202,
                                       "type": "uint256",
                                       "value": "_amount"
@@ -11754,9 +11511,7 @@
                                   {
                                     "attributes": {
                                       "argumentTypes": null,
-                                      "overloadedDeclarations": [
-                                        null
-                                      ],
+                                      "overloadedDeclarations": [null],
                                       "referencedDeclaration": 134,
                                       "type": "address",
                                       "value": "locationOfFunds"
@@ -11773,9 +11528,7 @@
                                       "isPure": false,
                                       "isStructConstructorCall": false,
                                       "lValueRequested": false,
-                                      "names": [
-                                        null
-                                      ],
+                                      "names": [null],
                                       "type": "address",
                                       "type_conversion": true
                                     },
@@ -11802,9 +11555,7 @@
                                       {
                                         "attributes": {
                                           "argumentTypes": null,
-                                          "overloadedDeclarations": [
-                                            null
-                                          ],
+                                          "overloadedDeclarations": [null],
                                           "referencedDeclaration": 156,
                                           "type": "contract AaveLendingPool",
                                           "value": "aaveLendingPool"
@@ -11848,9 +11599,7 @@
                           "isPure": false,
                           "isStructConstructorCall": false,
                           "lValueRequested": false,
-                          "names": [
-                            null
-                          ],
+                          "names": [null],
                           "type": "tuple()",
                           "type_conversion": false
                         },
@@ -11871,9 +11620,7 @@
                                   "typeString": "address"
                                 }
                               ],
-                              "overloadedDeclarations": [
-                                null
-                              ],
+                              "overloadedDeclarations": [null],
                               "referencedDeclaration": 164,
                               "type": "function (address,uint256,address)",
                               "value": "Deposit"
@@ -11897,9 +11644,7 @@
                               {
                                 "attributes": {
                                   "argumentTypes": null,
-                                  "overloadedDeclarations": [
-                                    null
-                                  ],
+                                  "overloadedDeclarations": [null],
                                   "referencedDeclaration": 849,
                                   "type": "msg",
                                   "value": "msg"
@@ -11916,9 +11661,7 @@
                           {
                             "attributes": {
                               "argumentTypes": null,
-                              "overloadedDeclarations": [
-                                null
-                              ],
+                              "overloadedDeclarations": [null],
                               "referencedDeclaration": 202,
                               "type": "uint256",
                               "value": "_amount"
@@ -11930,9 +11673,7 @@
                           {
                             "attributes": {
                               "argumentTypes": null,
-                              "overloadedDeclarations": [
-                                null
-                              ],
+                              "overloadedDeclarations": [null],
                               "referencedDeclaration": 134,
                               "type": "address",
                               "value": "locationOfFunds"
@@ -11976,9 +11717,7 @@
             "children": [
               {
                 "attributes": {
-                  "parameters": [
-                    null
-                  ]
+                  "parameters": [null]
                 },
                 "children": [],
                 "id": 284,
@@ -11987,9 +11726,7 @@
               },
               {
                 "attributes": {
-                  "parameters": [
-                    null
-                  ]
+                  "parameters": [null]
                 },
                 "children": [],
                 "id": 287,
@@ -12004,9 +11741,7 @@
                   {
                     "attributes": {
                       "argumentTypes": null,
-                      "overloadedDeclarations": [
-                        null
-                      ],
+                      "overloadedDeclarations": [null],
                       "referencedDeclaration": 191,
                       "type": "modifier ()",
                       "value": "onlyOwner"
@@ -12032,9 +11767,7 @@
                           "isPure": false,
                           "isStructConstructorCall": false,
                           "lValueRequested": false,
-                          "names": [
-                            null
-                          ],
+                          "names": [null],
                           "type": "tuple()",
                           "type_conversion": false
                         },
@@ -12047,10 +11780,7 @@
                                   "typeString": "bool"
                                 }
                               ],
-                              "overloadedDeclarations": [
-                                852,
-                                853
-                              ],
+                              "overloadedDeclarations": [852, 853],
                               "referencedDeclaration": 852,
                               "type": "function (bool) pure",
                               "value": "require"
@@ -12077,9 +11807,7 @@
                               {
                                 "attributes": {
                                   "argumentTypes": null,
-                                  "overloadedDeclarations": [
-                                    null
-                                  ],
+                                  "overloadedDeclarations": [null],
                                   "referencedDeclaration": 136,
                                   "type": "uint256",
                                   "value": "amountDeposited"
@@ -12140,9 +11868,7 @@
                           {
                             "attributes": {
                               "argumentTypes": null,
-                              "overloadedDeclarations": [
-                                null
-                              ],
+                              "overloadedDeclarations": [null],
                               "referencedDeclaration": 134,
                               "type": "address",
                               "value": "locationOfFunds"
@@ -12159,9 +11885,7 @@
                               "isPure": false,
                               "isStructConstructorCall": false,
                               "lValueRequested": false,
-                              "names": [
-                                null
-                              ],
+                              "names": [null],
                               "type": "address",
                               "type_conversion": true
                             },
@@ -12188,9 +11912,7 @@
                               {
                                 "attributes": {
                                   "argumentTypes": null,
-                                  "overloadedDeclarations": [
-                                    null
-                                  ],
+                                  "overloadedDeclarations": [null],
                                   "referencedDeclaration": 146,
                                   "type": "contract cDAI",
                                   "value": "cDai"
@@ -12221,9 +11943,7 @@
                                   "isPure": false,
                                   "isStructConstructorCall": false,
                                   "lValueRequested": false,
-                                  "names": [
-                                    null
-                                  ],
+                                  "names": [null],
                                   "type": "tuple()",
                                   "type_conversion": false
                                 },
@@ -12236,10 +11956,7 @@
                                           "typeString": "bool"
                                         }
                                       ],
-                                      "overloadedDeclarations": [
-                                        852,
-                                        853
-                                      ],
+                                      "overloadedDeclarations": [852, 853],
                                       "referencedDeclaration": 852,
                                       "type": "function (bool) pure",
                                       "value": "require"
@@ -12266,29 +11983,21 @@
                                       {
                                         "attributes": {
                                           "argumentTypes": null,
-                                          "arguments": [
-                                            null
-                                          ],
+                                          "arguments": [null],
                                           "isConstant": false,
                                           "isLValue": false,
                                           "isPure": false,
                                           "isStructConstructorCall": false,
                                           "lValueRequested": false,
-                                          "names": [
-                                            null
-                                          ],
+                                          "names": [null],
                                           "type": "uint256",
                                           "type_conversion": false
                                         },
                                         "children": [
                                           {
                                             "attributes": {
-                                              "argumentTypes": [
-                                                null
-                                              ],
-                                              "overloadedDeclarations": [
-                                                null
-                                              ],
+                                              "argumentTypes": [null],
+                                              "overloadedDeclarations": [null],
                                               "referencedDeclaration": 495,
                                               "type": "function () returns (uint256)",
                                               "value": "_withdrawFromCompound"
@@ -12346,29 +12055,21 @@
                               {
                                 "attributes": {
                                   "argumentTypes": null,
-                                  "arguments": [
-                                    null
-                                  ],
+                                  "arguments": [null],
                                   "isConstant": false,
                                   "isLValue": false,
                                   "isPure": false,
                                   "isStructConstructorCall": false,
                                   "lValueRequested": false,
-                                  "names": [
-                                    null
-                                  ],
+                                  "names": [null],
                                   "type": "tuple()",
                                   "type_conversion": false
                                 },
                                 "children": [
                                   {
                                     "attributes": {
-                                      "argumentTypes": [
-                                        null
-                                      ],
-                                      "overloadedDeclarations": [
-                                        null
-                                      ],
+                                      "argumentTypes": [null],
+                                      "overloadedDeclarations": [null],
                                       "referencedDeclaration": 551,
                                       "type": "function ()",
                                       "value": "_withdrawFromAave"
@@ -12399,9 +12100,7 @@
                   },
                   {
                     "attributes": {
-                      "assignments": [
-                        313
-                      ]
+                      "assignments": [313]
                     },
                     "children": [
                       {
@@ -12438,9 +12137,7 @@
                           "isPure": false,
                           "isStructConstructorCall": false,
                           "lValueRequested": false,
-                          "names": [
-                            null
-                          ],
+                          "names": [null],
                           "type": "uint256",
                           "type_conversion": false
                         },
@@ -12465,9 +12162,7 @@
                               {
                                 "attributes": {
                                   "argumentTypes": null,
-                                  "overloadedDeclarations": [
-                                    null
-                                  ],
+                                  "overloadedDeclarations": [null],
                                   "referencedDeclaration": 141,
                                   "type": "contract DAI",
                                   "value": "dai"
@@ -12489,9 +12184,7 @@
                               "isPure": false,
                               "isStructConstructorCall": false,
                               "lValueRequested": false,
-                              "names": [
-                                null
-                              ],
+                              "names": [null],
                               "type": "address",
                               "type_conversion": true
                             },
@@ -12518,9 +12211,7 @@
                               {
                                 "attributes": {
                                   "argumentTypes": null,
-                                  "overloadedDeclarations": [
-                                    null
-                                  ],
+                                  "overloadedDeclarations": [null],
                                   "referencedDeclaration": 873,
                                   "type": "contract Aggregator",
                                   "value": "this"
@@ -12554,9 +12245,7 @@
                           "isPure": false,
                           "isStructConstructorCall": false,
                           "lValueRequested": false,
-                          "names": [
-                            null
-                          ],
+                          "names": [null],
                           "type": "bool",
                           "type_conversion": false
                         },
@@ -12585,9 +12274,7 @@
                               {
                                 "attributes": {
                                   "argumentTypes": null,
-                                  "overloadedDeclarations": [
-                                    null
-                                  ],
+                                  "overloadedDeclarations": [null],
                                   "referencedDeclaration": 141,
                                   "type": "contract DAI",
                                   "value": "dai"
@@ -12616,9 +12303,7 @@
                               {
                                 "attributes": {
                                   "argumentTypes": null,
-                                  "overloadedDeclarations": [
-                                    null
-                                  ],
+                                  "overloadedDeclarations": [null],
                                   "referencedDeclaration": 849,
                                   "type": "msg",
                                   "value": "msg"
@@ -12635,9 +12320,7 @@
                           {
                             "attributes": {
                               "argumentTypes": null,
-                              "overloadedDeclarations": [
-                                null
-                              ],
+                              "overloadedDeclarations": [null],
                               "referencedDeclaration": 313,
                               "type": "uint256",
                               "value": "balance"
@@ -12666,9 +12349,7 @@
                           "isPure": false,
                           "isStructConstructorCall": false,
                           "lValueRequested": false,
-                          "names": [
-                            null
-                          ],
+                          "names": [null],
                           "type": "tuple()",
                           "type_conversion": false
                         },
@@ -12689,9 +12370,7 @@
                                   "typeString": "address"
                                 }
                               ],
-                              "overloadedDeclarations": [
-                                null
-                              ],
+                              "overloadedDeclarations": [null],
                               "referencedDeclaration": 172,
                               "type": "function (address,uint256,address)",
                               "value": "Withdraw"
@@ -12715,9 +12394,7 @@
                               {
                                 "attributes": {
                                   "argumentTypes": null,
-                                  "overloadedDeclarations": [
-                                    null
-                                  ],
+                                  "overloadedDeclarations": [null],
                                   "referencedDeclaration": 849,
                                   "type": "msg",
                                   "value": "msg"
@@ -12734,9 +12411,7 @@
                           {
                             "attributes": {
                               "argumentTypes": null,
-                              "overloadedDeclarations": [
-                                null
-                              ],
+                              "overloadedDeclarations": [null],
                               "referencedDeclaration": 136,
                               "type": "uint256",
                               "value": "amountDeposited"
@@ -12748,9 +12423,7 @@
                           {
                             "attributes": {
                               "argumentTypes": null,
-                              "overloadedDeclarations": [
-                                null
-                              ],
+                              "overloadedDeclarations": [null],
                               "referencedDeclaration": 134,
                               "type": "address",
                               "value": "locationOfFunds"
@@ -12785,9 +12458,7 @@
                           {
                             "attributes": {
                               "argumentTypes": null,
-                              "overloadedDeclarations": [
-                                null
-                              ],
+                              "overloadedDeclarations": [null],
                               "referencedDeclaration": 136,
                               "type": "uint256",
                               "value": "amountDeposited"
@@ -12907,9 +12578,7 @@
               },
               {
                 "attributes": {
-                  "parameters": [
-                    null
-                  ]
+                  "parameters": [null]
                 },
                 "children": [],
                 "id": 349,
@@ -12924,9 +12593,7 @@
                   {
                     "attributes": {
                       "argumentTypes": null,
-                      "overloadedDeclarations": [
-                        null
-                      ],
+                      "overloadedDeclarations": [null],
                       "referencedDeclaration": 191,
                       "type": "modifier ()",
                       "value": "onlyOwner"
@@ -12952,9 +12619,7 @@
                           "isPure": false,
                           "isStructConstructorCall": false,
                           "lValueRequested": false,
-                          "names": [
-                            null
-                          ],
+                          "names": [null],
                           "type": "tuple()",
                           "type_conversion": false
                         },
@@ -12967,10 +12632,7 @@
                                   "typeString": "bool"
                                 }
                               ],
-                              "overloadedDeclarations": [
-                                852,
-                                853
-                              ],
+                              "overloadedDeclarations": [852, 853],
                               "referencedDeclaration": 852,
                               "type": "function (bool) pure",
                               "value": "require"
@@ -12997,9 +12659,7 @@
                               {
                                 "attributes": {
                                   "argumentTypes": null,
-                                  "overloadedDeclarations": [
-                                    null
-                                  ],
+                                  "overloadedDeclarations": [null],
                                   "referencedDeclaration": 136,
                                   "type": "uint256",
                                   "value": "amountDeposited"
@@ -13042,9 +12702,7 @@
                   },
                   {
                     "attributes": {
-                      "assignments": [
-                        357
-                      ],
+                      "assignments": [357],
                       "initialValue": null
                     },
                     "children": [
@@ -13125,9 +12783,7 @@
                                   {
                                     "attributes": {
                                       "argumentTypes": null,
-                                      "overloadedDeclarations": [
-                                        null
-                                      ],
+                                      "overloadedDeclarations": [null],
                                       "referencedDeclaration": 343,
                                       "type": "uint256",
                                       "value": "_compAPY"
@@ -13139,9 +12795,7 @@
                                   {
                                     "attributes": {
                                       "argumentTypes": null,
-                                      "overloadedDeclarations": [
-                                        null
-                                      ],
+                                      "overloadedDeclarations": [null],
                                       "referencedDeclaration": 345,
                                       "type": "uint256",
                                       "value": "_aaveAPY"
@@ -13189,9 +12843,7 @@
                                   {
                                     "attributes": {
                                       "argumentTypes": null,
-                                      "overloadedDeclarations": [
-                                        null
-                                      ],
+                                      "overloadedDeclarations": [null],
                                       "referencedDeclaration": 134,
                                       "type": "address",
                                       "value": "locationOfFunds"
@@ -13208,9 +12860,7 @@
                                       "isPure": false,
                                       "isStructConstructorCall": false,
                                       "lValueRequested": false,
-                                      "names": [
-                                        null
-                                      ],
+                                      "names": [null],
                                       "type": "address",
                                       "type_conversion": true
                                     },
@@ -13237,9 +12887,7 @@
                                       {
                                         "attributes": {
                                           "argumentTypes": null,
-                                          "overloadedDeclarations": [
-                                            null
-                                          ],
+                                          "overloadedDeclarations": [null],
                                           "referencedDeclaration": 146,
                                           "type": "contract cDAI",
                                           "value": "cDai"
@@ -13275,29 +12923,21 @@
                               {
                                 "attributes": {
                                   "argumentTypes": null,
-                                  "arguments": [
-                                    null
-                                  ],
+                                  "arguments": [null],
                                   "isConstant": false,
                                   "isLValue": false,
                                   "isPure": false,
                                   "isStructConstructorCall": false,
                                   "lValueRequested": false,
-                                  "names": [
-                                    null
-                                  ],
+                                  "names": [null],
                                   "type": "tuple()",
                                   "type_conversion": false
                                 },
                                 "children": [
                                   {
                                     "attributes": {
-                                      "argumentTypes": [
-                                        null
-                                      ],
-                                      "overloadedDeclarations": [
-                                        null
-                                      ],
+                                      "argumentTypes": [null],
+                                      "overloadedDeclarations": [null],
                                       "referencedDeclaration": 551,
                                       "type": "function ()",
                                       "value": "_withdrawFromAave"
@@ -13332,9 +12972,7 @@
                                   {
                                     "attributes": {
                                       "argumentTypes": null,
-                                      "overloadedDeclarations": [
-                                        null
-                                      ],
+                                      "overloadedDeclarations": [null],
                                       "referencedDeclaration": 357,
                                       "type": "uint256",
                                       "value": "balance"
@@ -13351,9 +12989,7 @@
                                       "isPure": false,
                                       "isStructConstructorCall": false,
                                       "lValueRequested": false,
-                                      "names": [
-                                        null
-                                      ],
+                                      "names": [null],
                                       "type": "uint256",
                                       "type_conversion": false
                                     },
@@ -13378,9 +13014,7 @@
                                           {
                                             "attributes": {
                                               "argumentTypes": null,
-                                              "overloadedDeclarations": [
-                                                null
-                                              ],
+                                              "overloadedDeclarations": [null],
                                               "referencedDeclaration": 141,
                                               "type": "contract DAI",
                                               "value": "dai"
@@ -13402,9 +13036,7 @@
                                           "isPure": false,
                                           "isStructConstructorCall": false,
                                           "lValueRequested": false,
-                                          "names": [
-                                            null
-                                          ],
+                                          "names": [null],
                                           "type": "address",
                                           "type_conversion": true
                                         },
@@ -13431,9 +13063,7 @@
                                           {
                                             "attributes": {
                                               "argumentTypes": null,
-                                              "overloadedDeclarations": [
-                                                null
-                                              ],
+                                              "overloadedDeclarations": [null],
                                               "referencedDeclaration": 873,
                                               "type": "contract Aggregator",
                                               "value": "this"
@@ -13472,9 +13102,7 @@
                                   "isPure": false,
                                   "isStructConstructorCall": false,
                                   "lValueRequested": false,
-                                  "names": [
-                                    null
-                                  ],
+                                  "names": [null],
                                   "type": "uint256",
                                   "type_conversion": false
                                 },
@@ -13487,9 +13115,7 @@
                                           "typeString": "uint256"
                                         }
                                       ],
-                                      "overloadedDeclarations": [
-                                        null
-                                      ],
+                                      "overloadedDeclarations": [null],
                                       "referencedDeclaration": 471,
                                       "type": "function (uint256) returns (uint256)",
                                       "value": "_depositToCompound"
@@ -13501,9 +13127,7 @@
                                   {
                                     "attributes": {
                                       "argumentTypes": null,
-                                      "overloadedDeclarations": [
-                                        null
-                                      ],
+                                      "overloadedDeclarations": [null],
                                       "referencedDeclaration": 357,
                                       "type": "uint256",
                                       "value": "balance"
@@ -13538,9 +13162,7 @@
                                   {
                                     "attributes": {
                                       "argumentTypes": null,
-                                      "overloadedDeclarations": [
-                                        null
-                                      ],
+                                      "overloadedDeclarations": [null],
                                       "referencedDeclaration": 134,
                                       "type": "address",
                                       "value": "locationOfFunds"
@@ -13557,9 +13179,7 @@
                                       "isPure": false,
                                       "isStructConstructorCall": false,
                                       "lValueRequested": false,
-                                      "names": [
-                                        null
-                                      ],
+                                      "names": [null],
                                       "type": "address",
                                       "type_conversion": true
                                     },
@@ -13586,9 +13206,7 @@
                                       {
                                         "attributes": {
                                           "argumentTypes": null,
-                                          "overloadedDeclarations": [
-                                            null
-                                          ],
+                                          "overloadedDeclarations": [null],
                                           "referencedDeclaration": 146,
                                           "type": "contract cDAI",
                                           "value": "cDai"
@@ -13622,9 +13240,7 @@
                                   "isPure": false,
                                   "isStructConstructorCall": false,
                                   "lValueRequested": false,
-                                  "names": [
-                                    null
-                                  ],
+                                  "names": [null],
                                   "type": "tuple()",
                                   "type_conversion": false
                                 },
@@ -13645,9 +13261,7 @@
                                           "typeString": "address"
                                         }
                                       ],
-                                      "overloadedDeclarations": [
-                                        null
-                                      ],
+                                      "overloadedDeclarations": [null],
                                       "referencedDeclaration": 180,
                                       "type": "function (address,uint256,address)",
                                       "value": "Rebalance"
@@ -13671,9 +13285,7 @@
                                       {
                                         "attributes": {
                                           "argumentTypes": null,
-                                          "overloadedDeclarations": [
-                                            null
-                                          ],
+                                          "overloadedDeclarations": [null],
                                           "referencedDeclaration": 849,
                                           "type": "msg",
                                           "value": "msg"
@@ -13690,9 +13302,7 @@
                                   {
                                     "attributes": {
                                       "argumentTypes": null,
-                                      "overloadedDeclarations": [
-                                        null
-                                      ],
+                                      "overloadedDeclarations": [null],
                                       "referencedDeclaration": 136,
                                       "type": "uint256",
                                       "value": "amountDeposited"
@@ -13704,9 +13314,7 @@
                                   {
                                     "attributes": {
                                       "argumentTypes": null,
-                                      "overloadedDeclarations": [
-                                        null
-                                      ],
+                                      "overloadedDeclarations": [null],
                                       "referencedDeclaration": 134,
                                       "type": "address",
                                       "value": "locationOfFunds"
@@ -13779,9 +13387,7 @@
                                       {
                                         "attributes": {
                                           "argumentTypes": null,
-                                          "overloadedDeclarations": [
-                                            null
-                                          ],
+                                          "overloadedDeclarations": [null],
                                           "referencedDeclaration": 345,
                                           "type": "uint256",
                                           "value": "_aaveAPY"
@@ -13793,9 +13399,7 @@
                                       {
                                         "attributes": {
                                           "argumentTypes": null,
-                                          "overloadedDeclarations": [
-                                            null
-                                          ],
+                                          "overloadedDeclarations": [null],
                                           "referencedDeclaration": 343,
                                           "type": "uint256",
                                           "value": "_compAPY"
@@ -13843,9 +13447,7 @@
                                       {
                                         "attributes": {
                                           "argumentTypes": null,
-                                          "overloadedDeclarations": [
-                                            null
-                                          ],
+                                          "overloadedDeclarations": [null],
                                           "referencedDeclaration": 134,
                                           "type": "address",
                                           "value": "locationOfFunds"
@@ -13862,9 +13464,7 @@
                                           "isPure": false,
                                           "isStructConstructorCall": false,
                                           "lValueRequested": false,
-                                          "names": [
-                                            null
-                                          ],
+                                          "names": [null],
                                           "type": "address",
                                           "type_conversion": true
                                         },
@@ -13891,9 +13491,7 @@
                                           {
                                             "attributes": {
                                               "argumentTypes": null,
-                                              "overloadedDeclarations": [
-                                                null
-                                              ],
+                                              "overloadedDeclarations": [null],
                                               "referencedDeclaration": 156,
                                               "type": "contract AaveLendingPool",
                                               "value": "aaveLendingPool"
@@ -13929,29 +13527,21 @@
                                   {
                                     "attributes": {
                                       "argumentTypes": null,
-                                      "arguments": [
-                                        null
-                                      ],
+                                      "arguments": [null],
                                       "isConstant": false,
                                       "isLValue": false,
                                       "isPure": false,
                                       "isStructConstructorCall": false,
                                       "lValueRequested": false,
-                                      "names": [
-                                        null
-                                      ],
+                                      "names": [null],
                                       "type": "uint256",
                                       "type_conversion": false
                                     },
                                     "children": [
                                       {
                                         "attributes": {
-                                          "argumentTypes": [
-                                            null
-                                          ],
-                                          "overloadedDeclarations": [
-                                            null
-                                          ],
+                                          "argumentTypes": [null],
+                                          "overloadedDeclarations": [null],
                                           "referencedDeclaration": 495,
                                           "type": "function () returns (uint256)",
                                           "value": "_withdrawFromCompound"
@@ -13986,9 +13576,7 @@
                                       {
                                         "attributes": {
                                           "argumentTypes": null,
-                                          "overloadedDeclarations": [
-                                            null
-                                          ],
+                                          "overloadedDeclarations": [null],
                                           "referencedDeclaration": 357,
                                           "type": "uint256",
                                           "value": "balance"
@@ -14005,9 +13593,7 @@
                                           "isPure": false,
                                           "isStructConstructorCall": false,
                                           "lValueRequested": false,
-                                          "names": [
-                                            null
-                                          ],
+                                          "names": [null],
                                           "type": "uint256",
                                           "type_conversion": false
                                         },
@@ -14056,9 +13642,7 @@
                                               "isPure": false,
                                               "isStructConstructorCall": false,
                                               "lValueRequested": false,
-                                              "names": [
-                                                null
-                                              ],
+                                              "names": [null],
                                               "type": "address",
                                               "type_conversion": true
                                             },
@@ -14126,9 +13710,7 @@
                                       "isPure": false,
                                       "isStructConstructorCall": false,
                                       "lValueRequested": false,
-                                      "names": [
-                                        null
-                                      ],
+                                      "names": [null],
                                       "type": "uint256",
                                       "type_conversion": false
                                     },
@@ -14141,9 +13723,7 @@
                                               "typeString": "uint256"
                                             }
                                           ],
-                                          "overloadedDeclarations": [
-                                            null
-                                          ],
+                                          "overloadedDeclarations": [null],
                                           "referencedDeclaration": 526,
                                           "type": "function (uint256) returns (uint256)",
                                           "value": "_depositToAave"
@@ -14155,9 +13735,7 @@
                                       {
                                         "attributes": {
                                           "argumentTypes": null,
-                                          "overloadedDeclarations": [
-                                            null
-                                          ],
+                                          "overloadedDeclarations": [null],
                                           "referencedDeclaration": 357,
                                           "type": "uint256",
                                           "value": "balance"
@@ -14192,9 +13770,7 @@
                                       {
                                         "attributes": {
                                           "argumentTypes": null,
-                                          "overloadedDeclarations": [
-                                            null
-                                          ],
+                                          "overloadedDeclarations": [null],
                                           "referencedDeclaration": 134,
                                           "type": "address",
                                           "value": "locationOfFunds"
@@ -14211,9 +13787,7 @@
                                           "isPure": false,
                                           "isStructConstructorCall": false,
                                           "lValueRequested": false,
-                                          "names": [
-                                            null
-                                          ],
+                                          "names": [null],
                                           "type": "address",
                                           "type_conversion": true
                                         },
@@ -14240,9 +13814,7 @@
                                           {
                                             "attributes": {
                                               "argumentTypes": null,
-                                              "overloadedDeclarations": [
-                                                null
-                                              ],
+                                              "overloadedDeclarations": [null],
                                               "referencedDeclaration": 156,
                                               "type": "contract AaveLendingPool",
                                               "value": "aaveLendingPool"
@@ -14276,9 +13848,7 @@
                                       "isPure": false,
                                       "isStructConstructorCall": false,
                                       "lValueRequested": false,
-                                      "names": [
-                                        null
-                                      ],
+                                      "names": [null],
                                       "type": "tuple()",
                                       "type_conversion": false
                                     },
@@ -14299,9 +13869,7 @@
                                               "typeString": "address"
                                             }
                                           ],
-                                          "overloadedDeclarations": [
-                                            null
-                                          ],
+                                          "overloadedDeclarations": [null],
                                           "referencedDeclaration": 180,
                                           "type": "function (address,uint256,address)",
                                           "value": "Rebalance"
@@ -14325,9 +13893,7 @@
                                           {
                                             "attributes": {
                                               "argumentTypes": null,
-                                              "overloadedDeclarations": [
-                                                null
-                                              ],
+                                              "overloadedDeclarations": [null],
                                               "referencedDeclaration": 849,
                                               "type": "msg",
                                               "value": "msg"
@@ -14344,9 +13910,7 @@
                                       {
                                         "attributes": {
                                           "argumentTypes": null,
-                                          "overloadedDeclarations": [
-                                            null
-                                          ],
+                                          "overloadedDeclarations": [null],
                                           "referencedDeclaration": 136,
                                           "type": "uint256",
                                           "value": "amountDeposited"
@@ -14358,9 +13922,7 @@
                                       {
                                         "attributes": {
                                           "argumentTypes": null,
-                                          "overloadedDeclarations": [
-                                            null
-                                          ],
+                                          "overloadedDeclarations": [null],
                                           "referencedDeclaration": 134,
                                           "type": "address",
                                           "value": "locationOfFunds"
@@ -14410,9 +13972,7 @@
               "implemented": true,
               "isConstructor": false,
               "kind": "function",
-              "modifiers": [
-                null
-              ],
+              "modifiers": [null],
               "name": "_depositToCompound",
               "scope": 588,
               "stateMutability": "nonpayable",
@@ -14498,9 +14058,7 @@
                           "isPure": false,
                           "isStructConstructorCall": false,
                           "lValueRequested": false,
-                          "names": [
-                            null
-                          ],
+                          "names": [null],
                           "type": "tuple()",
                           "type_conversion": false
                         },
@@ -14513,10 +14071,7 @@
                                   "typeString": "bool"
                                 }
                               ],
-                              "overloadedDeclarations": [
-                                852,
-                                853
-                              ],
+                              "overloadedDeclarations": [852, 853],
                               "referencedDeclaration": 852,
                               "type": "function (bool) pure",
                               "value": "require"
@@ -14533,9 +14088,7 @@
                               "isPure": false,
                               "isStructConstructorCall": false,
                               "lValueRequested": false,
-                              "names": [
-                                null
-                              ],
+                              "names": [null],
                               "type": "bool",
                               "type_conversion": false
                             },
@@ -14564,9 +14117,7 @@
                                   {
                                     "attributes": {
                                       "argumentTypes": null,
-                                      "overloadedDeclarations": [
-                                        null
-                                      ],
+                                      "overloadedDeclarations": [null],
                                       "referencedDeclaration": 141,
                                       "type": "contract DAI",
                                       "value": "dai"
@@ -14588,9 +14139,7 @@
                                   "isPure": false,
                                   "isStructConstructorCall": false,
                                   "lValueRequested": false,
-                                  "names": [
-                                    null
-                                  ],
+                                  "names": [null],
                                   "type": "address",
                                   "type_conversion": true
                                 },
@@ -14617,9 +14166,7 @@
                                   {
                                     "attributes": {
                                       "argumentTypes": null,
-                                      "overloadedDeclarations": [
-                                        null
-                                      ],
+                                      "overloadedDeclarations": [null],
                                       "referencedDeclaration": 146,
                                       "type": "contract cDAI",
                                       "value": "cDai"
@@ -14636,9 +14183,7 @@
                               {
                                 "attributes": {
                                   "argumentTypes": null,
-                                  "overloadedDeclarations": [
-                                    null
-                                  ],
+                                  "overloadedDeclarations": [null],
                                   "referencedDeclaration": 446,
                                   "type": "uint256",
                                   "value": "_amount"
@@ -14664,9 +14209,7 @@
                   },
                   {
                     "attributes": {
-                      "assignments": [
-                        462
-                      ]
+                      "assignments": [462]
                     },
                     "children": [
                       {
@@ -14703,9 +14246,7 @@
                           "isPure": false,
                           "isStructConstructorCall": false,
                           "lValueRequested": false,
-                          "names": [
-                            null
-                          ],
+                          "names": [null],
                           "type": "uint256",
                           "type_conversion": false
                         },
@@ -14730,9 +14271,7 @@
                               {
                                 "attributes": {
                                   "argumentTypes": null,
-                                  "overloadedDeclarations": [
-                                    null
-                                  ],
+                                  "overloadedDeclarations": [null],
                                   "referencedDeclaration": 146,
                                   "type": "contract cDAI",
                                   "value": "cDai"
@@ -14749,9 +14288,7 @@
                           {
                             "attributes": {
                               "argumentTypes": null,
-                              "overloadedDeclarations": [
-                                null
-                              ],
+                              "overloadedDeclarations": [null],
                               "referencedDeclaration": 446,
                               "type": "uint256",
                               "value": "_amount"
@@ -14778,9 +14315,7 @@
                       {
                         "attributes": {
                           "argumentTypes": null,
-                          "overloadedDeclarations": [
-                            null
-                          ],
+                          "overloadedDeclarations": [null],
                           "referencedDeclaration": 462,
                           "type": "uint256",
                           "value": "result"
@@ -14810,9 +14345,7 @@
               "implemented": true,
               "isConstructor": false,
               "kind": "function",
-              "modifiers": [
-                null
-              ],
+              "modifiers": [null],
               "name": "_withdrawFromCompound",
               "scope": 588,
               "stateMutability": "nonpayable",
@@ -14822,9 +14355,7 @@
             "children": [
               {
                 "attributes": {
-                  "parameters": [
-                    null
-                  ]
+                  "parameters": [null]
                 },
                 "children": [],
                 "id": 472,
@@ -14868,9 +14399,7 @@
                 "children": [
                   {
                     "attributes": {
-                      "assignments": [
-                        477
-                      ]
+                      "assignments": [477]
                     },
                     "children": [
                       {
@@ -14907,9 +14436,7 @@
                           "isPure": false,
                           "isStructConstructorCall": false,
                           "lValueRequested": false,
-                          "names": [
-                            null
-                          ],
+                          "names": [null],
                           "type": "uint256",
                           "type_conversion": false
                         },
@@ -14934,9 +14461,7 @@
                               {
                                 "attributes": {
                                   "argumentTypes": null,
-                                  "overloadedDeclarations": [
-                                    null
-                                  ],
+                                  "overloadedDeclarations": [null],
                                   "referencedDeclaration": 146,
                                   "type": "contract cDAI",
                                   "value": "cDai"
@@ -14958,9 +14483,7 @@
                               "isPure": false,
                               "isStructConstructorCall": false,
                               "lValueRequested": false,
-                              "names": [
-                                null
-                              ],
+                              "names": [null],
                               "type": "address",
                               "type_conversion": true
                             },
@@ -14987,9 +14510,7 @@
                               {
                                 "attributes": {
                                   "argumentTypes": null,
-                                  "overloadedDeclarations": [
-                                    null
-                                  ],
+                                  "overloadedDeclarations": [null],
                                   "referencedDeclaration": 873,
                                   "type": "contract Aggregator",
                                   "value": "this"
@@ -15015,9 +14536,7 @@
                   },
                   {
                     "attributes": {
-                      "assignments": [
-                        486
-                      ]
+                      "assignments": [486]
                     },
                     "children": [
                       {
@@ -15054,9 +14573,7 @@
                           "isPure": false,
                           "isStructConstructorCall": false,
                           "lValueRequested": false,
-                          "names": [
-                            null
-                          ],
+                          "names": [null],
                           "type": "uint256",
                           "type_conversion": false
                         },
@@ -15081,9 +14598,7 @@
                               {
                                 "attributes": {
                                   "argumentTypes": null,
-                                  "overloadedDeclarations": [
-                                    null
-                                  ],
+                                  "overloadedDeclarations": [null],
                                   "referencedDeclaration": 146,
                                   "type": "contract cDAI",
                                   "value": "cDai"
@@ -15100,9 +14615,7 @@
                           {
                             "attributes": {
                               "argumentTypes": null,
-                              "overloadedDeclarations": [
-                                null
-                              ],
+                              "overloadedDeclarations": [null],
                               "referencedDeclaration": 477,
                               "type": "uint256",
                               "value": "balance"
@@ -15129,9 +14642,7 @@
                       {
                         "attributes": {
                           "argumentTypes": null,
-                          "overloadedDeclarations": [
-                            null
-                          ],
+                          "overloadedDeclarations": [null],
                           "referencedDeclaration": 486,
                           "type": "uint256",
                           "value": "result"
@@ -15161,9 +14672,7 @@
               "implemented": true,
               "isConstructor": false,
               "kind": "function",
-              "modifiers": [
-                null
-              ],
+              "modifiers": [null],
               "name": "_depositToAave",
               "scope": 588,
               "stateMutability": "nonpayable",
@@ -15249,9 +14758,7 @@
                           "isPure": false,
                           "isStructConstructorCall": false,
                           "lValueRequested": false,
-                          "names": [
-                            null
-                          ],
+                          "names": [null],
                           "type": "tuple()",
                           "type_conversion": false
                         },
@@ -15264,10 +14771,7 @@
                                   "typeString": "bool"
                                 }
                               ],
-                              "overloadedDeclarations": [
-                                852,
-                                853
-                              ],
+                              "overloadedDeclarations": [852, 853],
                               "referencedDeclaration": 852,
                               "type": "function (bool) pure",
                               "value": "require"
@@ -15284,9 +14788,7 @@
                               "isPure": false,
                               "isStructConstructorCall": false,
                               "lValueRequested": false,
-                              "names": [
-                                null
-                              ],
+                              "names": [null],
                               "type": "bool",
                               "type_conversion": false
                             },
@@ -15315,9 +14817,7 @@
                                   {
                                     "attributes": {
                                       "argumentTypes": null,
-                                      "overloadedDeclarations": [
-                                        null
-                                      ],
+                                      "overloadedDeclarations": [null],
                                       "referencedDeclaration": 141,
                                       "type": "contract DAI",
                                       "value": "dai"
@@ -15339,9 +14839,7 @@
                                   "isPure": false,
                                   "isStructConstructorCall": false,
                                   "lValueRequested": false,
-                                  "names": [
-                                    null
-                                  ],
+                                  "names": [null],
                                   "type": "address",
                                   "type_conversion": true
                                 },
@@ -15368,9 +14866,7 @@
                                   {
                                     "attributes": {
                                       "argumentTypes": null,
-                                      "overloadedDeclarations": [
-                                        null
-                                      ],
+                                      "overloadedDeclarations": [null],
                                       "referencedDeclaration": 156,
                                       "type": "contract AaveLendingPool",
                                       "value": "aaveLendingPool"
@@ -15387,9 +14883,7 @@
                               {
                                 "attributes": {
                                   "argumentTypes": null,
-                                  "overloadedDeclarations": [
-                                    null
-                                  ],
+                                  "overloadedDeclarations": [null],
                                   "referencedDeclaration": 497,
                                   "type": "uint256",
                                   "value": "_amount"
@@ -15423,9 +14917,7 @@
                           "isPure": false,
                           "isStructConstructorCall": false,
                           "lValueRequested": false,
-                          "names": [
-                            null
-                          ],
+                          "names": [null],
                           "type": "tuple()",
                           "type_conversion": false
                         },
@@ -15462,9 +14954,7 @@
                               {
                                 "attributes": {
                                   "argumentTypes": null,
-                                  "overloadedDeclarations": [
-                                    null
-                                  ],
+                                  "overloadedDeclarations": [null],
                                   "referencedDeclaration": 156,
                                   "type": "contract AaveLendingPool",
                                   "value": "aaveLendingPool"
@@ -15486,9 +14976,7 @@
                               "isPure": false,
                               "isStructConstructorCall": false,
                               "lValueRequested": false,
-                              "names": [
-                                null
-                              ],
+                              "names": [null],
                               "type": "address",
                               "type_conversion": true
                             },
@@ -15515,9 +15003,7 @@
                               {
                                 "attributes": {
                                   "argumentTypes": null,
-                                  "overloadedDeclarations": [
-                                    null
-                                  ],
+                                  "overloadedDeclarations": [null],
                                   "referencedDeclaration": 141,
                                   "type": "contract DAI",
                                   "value": "dai"
@@ -15534,9 +15020,7 @@
                           {
                             "attributes": {
                               "argumentTypes": null,
-                              "overloadedDeclarations": [
-                                null
-                              ],
+                              "overloadedDeclarations": [null],
                               "referencedDeclaration": 497,
                               "type": "uint256",
                               "value": "_amount"
@@ -15553,9 +15037,7 @@
                               "isPure": false,
                               "isStructConstructorCall": false,
                               "lValueRequested": false,
-                              "names": [
-                                null
-                              ],
+                              "names": [null],
                               "type": "address",
                               "type_conversion": true
                             },
@@ -15582,9 +15064,7 @@
                               {
                                 "attributes": {
                                   "argumentTypes": null,
-                                  "overloadedDeclarations": [
-                                    null
-                                  ],
+                                  "overloadedDeclarations": [null],
                                   "referencedDeclaration": 873,
                                   "type": "contract Aggregator",
                                   "value": "this"
@@ -15641,9 +15121,7 @@
               "implemented": true,
               "isConstructor": false,
               "kind": "function",
-              "modifiers": [
-                null
-              ],
+              "modifiers": [null],
               "name": "_withdrawFromAave",
               "scope": 588,
               "stateMutability": "nonpayable",
@@ -15653,9 +15131,7 @@
             "children": [
               {
                 "attributes": {
-                  "parameters": [
-                    null
-                  ]
+                  "parameters": [null]
                 },
                 "children": [],
                 "id": 527,
@@ -15664,9 +15140,7 @@
               },
               {
                 "attributes": {
-                  "parameters": [
-                    null
-                  ]
+                  "parameters": [null]
                 },
                 "children": [],
                 "id": 528,
@@ -15677,9 +15151,7 @@
                 "children": [
                   {
                     "attributes": {
-                      "assignments": [
-                        530
-                      ]
+                      "assignments": [530]
                     },
                     "children": [
                       {
@@ -15716,9 +15188,7 @@
                           "isPure": false,
                           "isStructConstructorCall": false,
                           "lValueRequested": false,
-                          "names": [
-                            null
-                          ],
+                          "names": [null],
                           "type": "uint256",
                           "type_conversion": false
                         },
@@ -15743,9 +15213,7 @@
                               {
                                 "attributes": {
                                   "argumentTypes": null,
-                                  "overloadedDeclarations": [
-                                    null
-                                  ],
+                                  "overloadedDeclarations": [null],
                                   "referencedDeclaration": 151,
                                   "type": "contract aDAI",
                                   "value": "aDai"
@@ -15767,9 +15235,7 @@
                               "isPure": false,
                               "isStructConstructorCall": false,
                               "lValueRequested": false,
-                              "names": [
-                                null
-                              ],
+                              "names": [null],
                               "type": "address",
                               "type_conversion": true
                             },
@@ -15796,9 +15262,7 @@
                               {
                                 "attributes": {
                                   "argumentTypes": null,
-                                  "overloadedDeclarations": [
-                                    null
-                                  ],
+                                  "overloadedDeclarations": [null],
                                   "referencedDeclaration": 873,
                                   "type": "contract Aggregator",
                                   "value": "this"
@@ -15832,9 +15296,7 @@
                           "isPure": false,
                           "isStructConstructorCall": false,
                           "lValueRequested": false,
-                          "names": [
-                            null
-                          ],
+                          "names": [null],
                           "type": "tuple()",
                           "type_conversion": false
                         },
@@ -15867,9 +15329,7 @@
                               {
                                 "attributes": {
                                   "argumentTypes": null,
-                                  "overloadedDeclarations": [
-                                    null
-                                  ],
+                                  "overloadedDeclarations": [null],
                                   "referencedDeclaration": 156,
                                   "type": "contract AaveLendingPool",
                                   "value": "aaveLendingPool"
@@ -15891,9 +15351,7 @@
                               "isPure": false,
                               "isStructConstructorCall": false,
                               "lValueRequested": false,
-                              "names": [
-                                null
-                              ],
+                              "names": [null],
                               "type": "address",
                               "type_conversion": true
                             },
@@ -15920,9 +15378,7 @@
                               {
                                 "attributes": {
                                   "argumentTypes": null,
-                                  "overloadedDeclarations": [
-                                    null
-                                  ],
+                                  "overloadedDeclarations": [null],
                                   "referencedDeclaration": 141,
                                   "type": "contract DAI",
                                   "value": "dai"
@@ -15939,9 +15395,7 @@
                           {
                             "attributes": {
                               "argumentTypes": null,
-                              "overloadedDeclarations": [
-                                null
-                              ],
+                              "overloadedDeclarations": [null],
                               "referencedDeclaration": 530,
                               "type": "uint256",
                               "value": "balance"
@@ -15958,9 +15412,7 @@
                               "isPure": false,
                               "isStructConstructorCall": false,
                               "lValueRequested": false,
-                              "names": [
-                                null
-                              ],
+                              "names": [null],
                               "type": "address",
                               "type_conversion": true
                             },
@@ -15987,9 +15439,7 @@
                               {
                                 "attributes": {
                                   "argumentTypes": null,
-                                  "overloadedDeclarations": [
-                                    null
-                                  ],
+                                  "overloadedDeclarations": [null],
                                   "referencedDeclaration": 873,
                                   "type": "contract Aggregator",
                                   "value": "this"
@@ -16029,9 +15479,7 @@
               "implemented": true,
               "isConstructor": false,
               "kind": "function",
-              "modifiers": [
-                null
-              ],
+              "modifiers": [null],
               "name": "balanceOfContract",
               "scope": 588,
               "stateMutability": "view",
@@ -16041,9 +15489,7 @@
             "children": [
               {
                 "attributes": {
-                  "parameters": [
-                    null
-                  ]
+                  "parameters": [null]
                 },
                 "children": [],
                 "id": 552,
@@ -16105,9 +15551,7 @@
                           {
                             "attributes": {
                               "argumentTypes": null,
-                              "overloadedDeclarations": [
-                                null
-                              ],
+                              "overloadedDeclarations": [null],
                               "referencedDeclaration": 134,
                               "type": "address",
                               "value": "locationOfFunds"
@@ -16124,9 +15568,7 @@
                               "isPure": false,
                               "isStructConstructorCall": false,
                               "lValueRequested": false,
-                              "names": [
-                                null
-                              ],
+                              "names": [null],
                               "type": "address",
                               "type_conversion": true
                             },
@@ -16153,9 +15595,7 @@
                               {
                                 "attributes": {
                                   "argumentTypes": null,
-                                  "overloadedDeclarations": [
-                                    null
-                                  ],
+                                  "overloadedDeclarations": [null],
                                   "referencedDeclaration": 146,
                                   "type": "contract cDAI",
                                   "value": "cDai"
@@ -16189,9 +15629,7 @@
                                   "isPure": false,
                                   "isStructConstructorCall": false,
                                   "lValueRequested": false,
-                                  "names": [
-                                    null
-                                  ],
+                                  "names": [null],
                                   "type": "uint256",
                                   "type_conversion": false
                                 },
@@ -16216,9 +15654,7 @@
                                       {
                                         "attributes": {
                                           "argumentTypes": null,
-                                          "overloadedDeclarations": [
-                                            null
-                                          ],
+                                          "overloadedDeclarations": [null],
                                           "referencedDeclaration": 146,
                                           "type": "contract cDAI",
                                           "value": "cDai"
@@ -16240,9 +15676,7 @@
                                       "isPure": false,
                                       "isStructConstructorCall": false,
                                       "lValueRequested": false,
-                                      "names": [
-                                        null
-                                      ],
+                                      "names": [null],
                                       "type": "address",
                                       "type_conversion": true
                                     },
@@ -16269,9 +15703,7 @@
                                       {
                                         "attributes": {
                                           "argumentTypes": null,
-                                          "overloadedDeclarations": [
-                                            null
-                                          ],
+                                          "overloadedDeclarations": [null],
                                           "referencedDeclaration": 873,
                                           "type": "contract Aggregator",
                                           "value": "this"
@@ -16315,9 +15747,7 @@
                                   "isPure": false,
                                   "isStructConstructorCall": false,
                                   "lValueRequested": false,
-                                  "names": [
-                                    null
-                                  ],
+                                  "names": [null],
                                   "type": "uint256",
                                   "type_conversion": false
                                 },
@@ -16342,9 +15772,7 @@
                                       {
                                         "attributes": {
                                           "argumentTypes": null,
-                                          "overloadedDeclarations": [
-                                            null
-                                          ],
+                                          "overloadedDeclarations": [null],
                                           "referencedDeclaration": 151,
                                           "type": "contract aDAI",
                                           "value": "aDai"
@@ -16366,9 +15794,7 @@
                                       "isPure": false,
                                       "isStructConstructorCall": false,
                                       "lValueRequested": false,
-                                      "names": [
-                                        null
-                                      ],
+                                      "names": [null],
                                       "type": "address",
                                       "type_conversion": true
                                     },
@@ -16395,9 +15821,7 @@
                                       {
                                         "attributes": {
                                           "argumentTypes": null,
-                                          "overloadedDeclarations": [
-                                            null
-                                          ],
+                                          "overloadedDeclarations": [null],
                                           "referencedDeclaration": 873,
                                           "type": "contract Aggregator",
                                           "value": "this"
@@ -16447,9 +15871,7 @@
               "implemented": true,
               "isConstructor": false,
               "kind": "function",
-              "modifiers": [
-                null
-              ],
+              "modifiers": [null],
               "name": "balanceWhere",
               "scope": 588,
               "stateMutability": "view",
@@ -16459,9 +15881,7 @@
             "children": [
               {
                 "attributes": {
-                  "parameters": [
-                    null
-                  ]
+                  "parameters": [null]
                 },
                 "children": [],
                 "id": 580,
@@ -16512,9 +15932,7 @@
                       {
                         "attributes": {
                           "argumentTypes": null,
-                          "overloadedDeclarations": [
-                            null
-                          ],
+                          "overloadedDeclarations": [null],
                           "referencedDeclaration": 134,
                           "type": "address",
                           "value": "locationOfFunds"

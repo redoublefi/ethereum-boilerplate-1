@@ -7,9 +7,8 @@
 //   deployer.deploy(MetaCoin);
 // };
 
-
 const Aggregator = artifacts.require("Aggregator");
 
 module.exports = function (deployer) {
-    deployer.deploy(Aggregator);
+  deployer.deploy(Aggregator);
 };
