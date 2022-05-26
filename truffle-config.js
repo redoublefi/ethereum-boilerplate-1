@@ -9,16 +9,18 @@ module.exports = {
   // for more details on how to specify configuration options!
   //
   networks: {
-    develop: {
+    development: {
       host: "127.0.0.1",
-      port: 8545,
-      // chainId: 42,
-      network_id: "*",
-      // from: '0x7926223070547d2d15b2ef5e7383e541c338ffe9',
-      // gasPrice: '0x64',
-      // deploymentPollingInterval: 10,
+      port: 7545,
+      network_id: "*"
     },
+    test: {
+      host: "127.0.0.1",
+      port: 7545,
+      network_id: "*"
+    }
   },
+
   //
   // Truffle DB is currently disabled by default; to enable it, change enabled:
   // false to enabled: true. The default storage location can also be

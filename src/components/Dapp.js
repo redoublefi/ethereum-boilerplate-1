@@ -46,7 +46,7 @@ class App extends Component {
     if (window.ethereum) {
       window.web3 = new Web3(window.ethereum);
       await window.ethereum.enable();
-
+      console.log("into this");
       this.loadBlockchainData(this.props.dispatch);
     } else if (window.web3) {
       window.web3 = new Web3(window.web3.currentProvider);

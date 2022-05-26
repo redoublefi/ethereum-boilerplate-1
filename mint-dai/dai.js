@@ -1,5 +1,5 @@
 const Web3 = require("web3");
-const web3 = new Web3("http://127.0.0.1:8545");
+const web3 = new Web3("http://127.0.0.1:7545");
 
 const daiAbi = require("./dai-abi.json");
 
@@ -33,6 +33,7 @@ web3.eth
   .then((balanceOf) => {
     const dai = balanceOf / 1e18;
     console.log("DAI amount in first Ganache account wallet:", dai);
+    console.log(accounts[0]);
   })
   .catch((err) => {
     console.error(err);
