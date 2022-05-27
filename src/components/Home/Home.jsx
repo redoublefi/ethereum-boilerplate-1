@@ -120,16 +120,25 @@ class Home extends Component {
                 <div className="row">
                   <div className="col-md-8 col-lg-7">
                     <div className="detail-box">
-                      <h1>
-                        Liquid · Secured · Rewarding <br />
-                      </h1>
+                      <h4 className="text-white">
+                        LIQUID · SEAMLESS · REWARDING <br />
+                      </h4>
                       <br />
+                      <h1 className = "text-warning">
+                        RE:DOUBLE
+                      </h1>
                       <h2 className="text-white">
-                        Earn Smart <br />
-                        Not Hard
+                        Where Your Crypto Journey Begins <br />
+                        
                       </h2>
                       <br />
-                      <br />
+                      
+                      A liquid, insured investment platform for crypto beginners, offering better than bank returns, 
+                      <br/>
+                      educational resources and seamless onboarding.
+                      <br/>
+                      <br/>
+                      <br/>
                       <div className="btn-box">
                         {/* <a href="" className="btn1">
                                 {" "}
