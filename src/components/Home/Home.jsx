@@ -306,7 +306,7 @@ class Home extends Component {
                           decentralised finance has to offer. We chase the best
                           returns from the most secure protocols in the market
                           so you don't have to. <br />
-                          <br />
+                          
                           <br />
                         </p>
                         <a href=""></a>
