@@ -899,6 +899,11 @@ a:focus {
   color: inherit;
 }
 
+.youtube {
+  float:none;
+}
+
+
 /* * + * {
   margin-top: 1.5em;
 } */

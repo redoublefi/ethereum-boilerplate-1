@@ -118,7 +118,7 @@ class Home extends Component {
                     */}
               <div className="container">
                 <div className="row">
-                  <div className="col-md-8 col-lg-7">
+                  <div className="col-md-7 col-md-5">
                     <div className="detail-box">
                       <h4 className="text-white">
                         LIQUID · SEAMLESS · REWARDING <br />
@@ -133,7 +133,7 @@ class Home extends Component {
                       </h2>
                       <br />
                       
-                      A liquid, insured investment platform for crypto beginners, offering better than bank returns, 
+                      A intuitive liquid investment platform for crypto beginners, offering better than bank returns, 
                       <br/>
                       educational resources and seamless onboarding.
                       <br/>
@@ -151,7 +151,15 @@ class Home extends Component {
                         >
                           Launch App
                         </button>
-                      </div>
+                      </div>  
+                      {/*<div className="col-md-7 col-md-5">
+                        <div className="detail-box">
+                          <h4 className="text-white">
+                            How are you
+                           </h4>
+                        </div>
+                            </div>  */}      
+                      
                     </div>
                   </div>
                 </div>
@@ -336,11 +344,34 @@ class Home extends Component {
             </div>
           </section>
 
-          {/*<section classNameName="about_section about_section1 layout_padding-bottom">
-            <div classNameName="container">
-              <div classNameName="row">
-                <div classNameName="col-lg-6">
-                  <div classNameName="img-box">
+          <section className="about_section about_section1 layout_padding-bottom">
+            <div className="container">
+              <div className="row">
+                
+                  <div className="col-lg-8">
+                {/*<div className="width: 50%; min-width: 400px; float: right">
+                {/*!-- instructions video -->*/}
+                {/*<div className="
+                  background-color: rgb(241, 215, 255);
+                  padding: 15px;
+                  margin: 0 2% 4% 0;
+                  "
+                  >*/}
+                  <div className="heading_container heading_center">
+                  <h2>
+                    Our Step-by-Step Instruction Video</h2>
+                  </div>
+                  <div className="video">
+                  <iframe src="https://www.youtube.com/embed/dyg81soRNkQ"
+                  
+                  width= {800} 
+                  height= {500}
+                  allow="autoplay; encrypted-media"
+                  allowFullScreen
+                  ></iframe>
+                  </div>
+                  </div>
+              {/*<div classNameName="img-box">
                     <img src="images/about-img.jpg" alt="" />
                   </div>
                 </div>
@@ -361,13 +392,13 @@ class Home extends Component {
                       All
                     </p>
                     <a href=""> Read More </a>
-                  </div>
-                </div>
+                          </div></div>
+                </div>*/}
               </div>
             </div>
           </section>
 
-          <section classNameName="about_section about_section2 layout_padding-bottom">
+          {/*<section classNameName="about_section about_section2 layout_padding-bottom">
             <div classNameName="container">
               <div classNameName="row">
                 <div classNameName="col-lg-6">
